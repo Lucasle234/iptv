@@ -19,3 +19,7 @@ https://iplogger.com/HBOVN4M
 http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
 #EXTINF:0 tvg-id="man" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_480_270.png", Man (VN)
 https://tiemnhazunn.click/tv360/tv360.php?id=237
+
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
+#EXTVLCOPT:http-user-agent=apptv
+udp://@225.1.2.215:30120
