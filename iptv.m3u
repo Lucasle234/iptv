@@ -1,0 +1,24 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
+#PLAYLISTINF:frumos96 version="v8" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG"
+
+# K+ VLC #
+#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_480_270.png", K+ CINE
+https://iplogger.com/CINEB4TV
+#EXTINF:0 tvg-id="klifehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985751199/97936738e7a0_480_270.png",K+ LIFE
+https://iplogger.com/LIFEB4TV
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+"  tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_480_270.png", K+ SPORT1
+https://iplogger.com/C1B4TV
+
+# Quốc tế VLC #
+#EXTINF:-1 tvg-id="boxhits" group-title="Quốc tế"  tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png", Box Hits (VN)
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de_480_270.png", HBO HD (VN)
+https://iplogger.com/HBOVN4M
+#EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="http://xemtruyenhinh.xyz/image/history.png" group-title="Quốc tế", History (VN)
+http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
+#EXTINF:0 tvg-id="man" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_480_270.png", Man (VN)
+https://tiemnhazunn.click/tv360/tv360.php?id=237
+#EXTINF:-1 group-title="Quốc tế" tvg-id="woman" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_480_270.png",Woman (VN)
+https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
+
