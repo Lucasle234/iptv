@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://trada.info/epg.xml,https://viva-russia.ru/scheduler/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 # K+ #
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
 https://iplogger.com/CINEB4TV
@@ -10,13 +10,13 @@ https://iplogger.com/C1B4TV
 # THỂ THAO #
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="LỐI SỐNG"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/8gs76uhh_vtvcab22_296_168.webp",ON Life
 https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/001157c6ea004f11054662d9fb25f889/1691567555144/livetv/9fdb82338d23147aef4c9d235f0db95b/tracks-v2/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="THỂ THAO" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-3.png",ON Sports
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="THỂ THAO"  tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-3.png",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/onsports.php
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-16.png",ON Football HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO"  tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-16.png",ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vtvcab16.php
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-18.png",ON Sports News
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO"  tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-18.png",ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/onsportsnews.php
 
@@ -87,11 +87,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 # TRUYỀN HÌNH HÀN QUỐC #
 #EXTINF:-1 tvg-id="arirang" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang (KR)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTM3U http://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTM3U http://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTM3U http://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ArirangCoKrTV/live
-#EXTM3U http://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="kbs1" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/kbs-1-live-vipotv-korea.png",KBS 1 (KR)
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1691656966&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTE2NTY5NjZ9fX1dfQ__&Signature=ejglWYyeWkB2W~Hwb6VJAePka49l0IRfCw~tpgMongqmtGtxcWsKs3jFVp4LfvgGpxg1frTAnIoawca7OiIIH4gstUIaTUkl~eu3JIhJRd~HWZQzXBYq8JGeyBLyV8E300RIcl5P40ZWELepvb9G5kfvMh7Tx~ajoN-2yuqexYj33Va-Obc7-tlRUq6649RzIeNDuZ8IV-0Rm~vfhiY-pNYE19cJ0XLPbif-vTCabQTBD5zi0qfdeiAwDU9~PeZxF-rXewz2CIETUAH7cGqmV76c9DgXgBNv4p9JngXDeCbe3zx-B8l3ZhsAHJq97-eLtHwm8smGxZCM7-Alz3ClAA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 tvg-id="kbsworld" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp",KBS World (VN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
@@ -130,14 +127,7 @@ http://203.162.235.41:25104
 #EXTINF:-1 tvg-id="nhkworld" group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp",NHK World (JP)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20210222145300_420.jpg",Discovery (US)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174624&extension=ts&play_token=
-#EXTINF:-1 group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",Discovery Sc (US)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174626&extension=ts&play_token=
-#EXTINF:-1 group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/06/163218LOGO-590x332.jpg",Discovery Family (US)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174623&extension=ts&play_token=
-#EXTINF:-1 tvg-id="" group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi",Love Nature 4K (US)
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="gshop" group-title="MUA SẮM" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/GS-Shop-live-vipotv-kroea.png",GS Shop (KR)
+https://gstv-gsshop.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="gshop" group-title="MUA SẮM" tvg-logo="https://vipotv.com/wp-content/uploads/2022/02/Lotte-Home-Shopping-live-vipotv-korean.png",Lotte Home Shopping (KR)
+https://pchlslivesw.lotteimall.com/live/livestream/chunklist.m3u8
