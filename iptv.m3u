@@ -1,6 +1,5 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
-#PLAYLISTINF:frumos96 version="v8" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG"
+
 
 # K+ #
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
@@ -21,27 +20,26 @@ http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature 4K (EN)
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 # LỐI SỐNG #
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585728414780_1675158899.webp" group-title="LỐI SỐNG",Asian Food Network (VN)
+#EXTVLCOPT:http-user-agent="KIIP"
+https://tiemnhazunn.click/tv360/tv360.php?id=215
 #EXTINF:0 tvg-id="drfithd" group-title="LỐI SỐNG" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/drfit3_1675158875.webp",DR.Fit (VN)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
+#EXTINF:0 tvg-id="hgtv" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/HGTV_M_1675158876.webp" group-title="LỐI SỐNG", HGTV (VN)
+https://tiemnhazunn.click/tv360/tv360.php?id=99
 #EXTINF:0 tvg-id="man" group-title="LỐI SỐNG" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/man3_1675158880.webp",Man (VN)
 https://tiemnhazunn.click/tv360/tv360.php?id=237
+#EXTINF:0 tvg-id="outdoorhd" group-title="LỐI SỐNG" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585727494584_1675158897.webp" , Outdoor Channel (VN)
+#EXTVLCOPT:http-user-agent="KIIP"
+https://tiemnhazunn.click/tv360/tv360.php?id=216
 #EXTINF:0 tvg-id="woman" group-title="LỐI SỐNG" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/woman3_1675158912.webp",Woman (VN)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
-
-# TRUYỀN HÌNH HÀN QUỐC #
-#EXTINF:-1 tvg-id="kbsworld" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp",KBS World (VN)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
-#EXTINF:0 tvg-id="kix" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/KIX_M_1675158891.webp", KIX (VN)
-https://arcgmoblie.site/fptplay/getfpt.php?id=kix
-
-# TRUYỀN HÌNH NHẬT BẢN #
-#EXTINF:-1 tvg-id="nhkworld" group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp",NHK World (VN)
-https://sgn-vnpt-002-livecdn-vthn-vnd.vieon.vn/b3b421e56ef3046441bd6e338512fb62/1691536025067/livetv/b1eddf67e77fa19528edbc703caaf259/tracks-v2/index.fmp4.m3u8
-
 
 # THIẾU NHI - HOẠT HÌNH #
 #EXTINF:-1 tvg-id="animaxhd" group-title="THIẾU NHI - HOẠT HÌNH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/eqy6ajv9_ngang7cd3bf1610b641314d44af0cae5d1ccb_296_168.webp", Animax (VN)
@@ -71,3 +69,51 @@ https://iplogger.com/HBOVN4M
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="PHIM ẢNH QUỐC TẾ" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/hollywood5_1675158893.webp",Hollywood Classics (VN)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+
+# TRUYỀN HÌNH HÀN QUỐC #
+#EXTINF:-1 tvg-id="kbsworld" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp",KBS World (VN)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/KBS_WORLD_M_1675158876.webp", KBS World (FPT)
+https://arcgmoblie.site/fptplay/getfpt.php?id=kbs-world
+#EXTINF:0 tvg-id="kix" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/KIX_M_1675158891.webp", KIX (VN)
+https://arcgmoblie.site/fptplay/getfpt.php?id=kix
+
+# TRUYỀN HÌNH NHẬT BẢN #
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="28" tvg-logo="https://www.asahi.co.jp/img/gtop/facebook_ogp.png", ABC TV (JP)
+https://tiemnhazunn.click/japantv/?id=28
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg", Animal Planet (JP)
+https://tiemnhazunn.click/japantv/?id=76
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN (JP)
+https://tiemnhazunn.click/japantv/?id=137
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="98" tvg-logo="https://tinyurl.com/c9mc9xm7", BS Fishing (JP) [CÂU CÁ NHẬT BẢN]
+https://tiemnhazunn.click/japantv/?id=98
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="95" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/2560px-FOX_wordmark.svg.png", FOX (JP)
+https://tiemnhazunn.click/japantv/?id=95
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="148" tvg-logo="https://tinyurl.com/3u8hzk4f", Fuji TV Next (JP)
+https://tiemnhazunn.click/japantv/?id=148
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="146" tvg-logo="https://tinyurl.com/h25ep9xx", Fuji TV One (JP)
+https://tiemnhazunn.click/japantv/?id=146
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="147" tvg-logo="https://tinyurl.com/3jtmne46", Fuji TV Two (JP)
+https://tiemnhazunn.click/japantv/?id=147
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV (JP)
+http://203.162.235.41:15094/
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="99" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/2/2b/Discovery-Channel.svg/2560px-Discovery-Channel.svg.png", Discovery Channel (JP)
+https://tiemnhazunn.click/japantv/?id=99
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png", Disney Channel (JP)
+https://tiemnhazunn.click/japantv/?id=58
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="89" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg", Disney Junior (JP)
+https://tiemnhazunn.click/japantv/?id=89
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="75" tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png", National Geographic (JP)
+https://tiemnhazunn.click/japantv/?id=75
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 (JP)
+http://203.162.235.41:20099/
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="33" tvg-logo="https://tinyurl.com/y4yjxvya", NHK BS Premium (JP)
+http://203.162.235.41:25104
+#EXTINF:-1 tvg-id="nhkworld" group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp",NHK World (VN)
+http://203.162.235.41:13092/
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="309" tvg-logo="https://tinyurl.com/yvbxdzmf", The History Channel Japan (JP)
+https://tiemnhazunn.click/japantv/?id=309
+
+
+
