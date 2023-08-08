@@ -11,6 +11,12 @@ https://iplogger.com/C1B4TV
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="THỂ THAO" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-3.png",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/onsports.php
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="THỂ THAO" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-16.png",ON Football HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tiemnhazunn.click/vieon/vtvcab16.php
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="THỂ THAO" group-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab.png" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-18.png",ON Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tiemnhazunn.click/vieon/onsportsnews.php
 
 # KHÁM PHÁ KHOA HỌC #
 #EXTINF:-1 tvg-id="animalhd" group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/4zwxanz9_ngang6e39dff1f114e3fe857d2dddf3cc9120_296_168.webp",Animal Planet (VN)
