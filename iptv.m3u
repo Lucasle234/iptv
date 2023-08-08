@@ -92,9 +92,9 @@ https://tiemnhazunn.click/japantv/?id=98
 https://tiemnhazunn.click/japantv/?id=95
 #EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV (JP)
 http://203.162.235.41:15094/
-#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="99" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/2/2b/Discovery-Channel.svg/2560px-Discovery-Channel.svg.png", Discovery Channel (JP)
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="99" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Disney_Channel_2022.svg/revision/latest/scale-to-width-down/1200?cb=20220702062636", Discovery Channel (JP)
 https://tiemnhazunn.click/japantv/?id=99
-#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="58" tvg-logo="https:https://upload.wikimedia.org/wikipedia/vi/thumb/2/2b/Discovery-Channel.svg/2560px-Discovery-Channel.svg.png", Disney Channel (JP)
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="58" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Disney_Junior_%28Flat%29.svg/revision/latest?cb=20190328151350", Disney Channel (JP)
 https://tiemnhazunn.click/japantv/?id=58
 #EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="89" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg", Disney Junior (JP)
 https://tiemnhazunn.click/japantv/?id=89
@@ -105,7 +105,6 @@ http://203.162.235.41:20099/
 #EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="33" tvg-logo="https://tinyurl.com/y4yjxvya", NHK BS Premium (JP)
 http://203.162.235.41:25104
 #EXTINF:-1 tvg-id="nhkworld" group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp",NHK World (VN)
-https://sgn-vnpt-002-livecdn-vthn-vnd.vieon.vn/fcca0c33de21dac9b33aa192d5687815/1691551437055/livetv/b1eddf67e77fa19528edbc703caaf259/tracks-v2/index.fmp4.m3u8
-
+http://203.162.235.41:13092
 
 
