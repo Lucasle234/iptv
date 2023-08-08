@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 # KÊNH K+ #
 #EXTINF:0 tvg-id="kcinehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
@@ -19,10 +19,13 @@ https://tiemnhazunn.click/vieon/vtvcab16.php
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="KÊNH THỂ THAO"  tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-18.png",ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/onsportsnews.php
-#EXTINF:-1 tvg-id="sctv17hd" group-title="KÊNH THỂ THAO" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SSPORT1
+#EXTINF:-1 tvg-id="sctv17hd" group-title="KÊNH THỂ THAO" tvg-logo="https://img.vnmedia.xyz/logo/sctv17hd.png", SSPORT
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
-#EXTINF:-1 tvg-id="sctv15hd" group-title="KÊNH THỂ THAO" tvg-logo="https://pbs.twimg.com/media/Fa6qMKjaQAUbw1Y?format=png", SSPORT2
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_w498723082_b1692000.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="KÊNH THỂ THAO" tvg-logo="https://img.vnmedia.xyz/logo/sctv22hd.png", SSPORT1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/channel/sctv22/index.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="KÊNH THỂ THAO" tvg-logo="https://img.vnmedia.xyz/logo/sctv15hd.png", SSPORT2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
 
@@ -65,6 +68,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 
 # KÊNH THIẾU NHI - HOẠT HÌNH #
+#EXTINF:-1 tvg-id="sctv3hd" group-title="KÊNH THIẾU NHI - HOẠT HÌNH" tvg-logo="https://img.vnmedia.xyz/logo/sctv3hd.png", See TV
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv3/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="KÊNH THIẾU NHI - HOẠT HÌNH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/eqy6ajv9_ngang7cd3bf1610b641314d44af0cae5d1ccb_296_168.webp",Animax (VN)
 http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="KÊNH THIẾU NHI - HOẠT HÌNH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/tjoyf7tj_ngang90be89a906beda93e62ca47e92837401_296_168.webp",Cartoon Network Asia (VN)
@@ -101,6 +106,8 @@ https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1691656966&Policy=eyJTdGF0ZW1lbnQ
 #EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH HÀN QUỐC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp",KBS World (VN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH HÀN QUỐC" tvg-logo="https://img.vnmedia.xyz/logo/kbsworld.jpg",KBS World (SCTV)
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/kbsworld/index.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH HÀN QUỐC" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/KBS_WORLD_M_1675158876.webp",KBS World (FPT)
 https://arcgmoblie.site/fptplay/getfpt.php?id=kbs-world
 #EXTINF:0 tvg-id="kix" group-title="KÊNH HÀN QUỐC" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/KIX_M_1675158891.webp",KIX (VN)
