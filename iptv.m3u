@@ -121,7 +121,7 @@ https://tiemnhazunn.click/japantv/?id=89
 https://tiemnhazunn.click/japantv/?id=75
 #EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png",NHK BS1 (JP)
 http://203.162.235.41:20099/
-#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="33" tvg-logo="https://tinyurl.com/y4yjxvya",NHK BS Premium (JP)
+#EXTINF:-1 group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-id="33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png/800px-NHKBS1%E3%83%AD%E3%82%B42020-.png",NHK BS Premium (JP)
 http://203.162.235.41:25104
 #EXTINF:-1 tvg-id="nhkworld" group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp",NHK World (JP)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
