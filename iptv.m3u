@@ -15,9 +15,9 @@ https://iplogger.com/C1B4TV
 http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌍 KHCN & Đời sống" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/r5tf6ytw_ngang9bb208c94024f2190051491e8147aabd_296_168.webp",BBC Earth (VN)
 http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
-#EXTINF:-1 tvg-id="historyhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/HIS_M_1675158893.webp" group-title="🌍 KHCN & Đời sống (VN)",History (VN)
+#EXTINF:-1 tvg-id="historyhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/HIS_M_1675158893.webp" group-title="🌍 KHCN & Đời sống",History (VN)
 http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
-#EXTINF:0 tvg-id="man" group-title="🌍 KHCN & Đời sống (VN)" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/man3_1675158880.webp",Man (VN)
+#EXTINF:0 tvg-id="man" group-title="🌍 KHCN & Đời sống" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/man3_1675158880.webp",Man (VN)
 https://tiemnhazunn.click/tv360/tv360.php?id=237
 
 # Truyền hình Hàn Quốc #
@@ -31,7 +31,7 @@ https://sgn-vnpt-002-livecdn-vthn-vnd.vieon.vn/b3b421e56ef3046441bd6e338512fb62/
 
 
 # 🌍 Thiếu nhi - Hoạt hình
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌍 Thiếu nhi - Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/eqy6ajv9_ngang7cd3bf1610b641314d44af0cae5d1ccb_296_168.webp", Animax HD (VN)
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌍 Thiếu Nhi - Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/eqy6ajv9_ngang7cd3bf1610b641314d44af0cae5d1ccb_296_168.webp", Animax HD (VN)
 http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌍 Thiếu Nhi - Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/tjoyf7tj_ngang90be89a906beda93e62ca47e92837401_296_168.webp",Cartoon Network Asia HD
 http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
