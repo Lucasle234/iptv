@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://trada.info/epg.xml,https://viva-russia.ru/scheduler/epg/epg.xml.gz"
 # K+ #
 #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
 https://iplogger.com/CINEB4TV
@@ -23,23 +23,17 @@ https://tiemnhazunn.click/vieon/onsportsnews.php
 http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/r5tf6ytw_ngang9bb208c94024f2190051491e8147aabd_296_168.webp",BBC Earth (VN)
 http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/2srt1v2v_discovery_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery Channel (VN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="historyhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/HIS_M_1675158893.webp" group-title="KHÁM PHÁ KHOA HỌC",History (VN)
 http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-id="ngchd" group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_national-geographic-hd_165647725527.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",National Geographic (VN)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://livecdn.khanggtivi.duckdns.org/getplay/vthanhtivi_getlink/tvmienphi/natgeo/playlist.php
 #EXTINF:0 tvg-id="planetearthhd" group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/planetEarth3_1675158874.webp",Planet Earth (VN)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
-
-#EXTINF:-1 group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20210222145300_420.jpg",Discovery (US)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174624&extension=ts&play_token=
-#EXTINF:-1 group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",Discovery Sc (US)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174626&extension=ts&play_token=
-#EXTINF:-1 group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/06/163218LOGO-590x332.jpg",Discovery Family (US)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174623&extension=ts&play_token=
-#EXTINF:-1 tvg-id="" group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi",Love Nature 4K (US)
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 # LỐI SỐNG #
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585728414780_1675158899.webp" group-title="LỐI SỐNG",Asian Food Network (VN)
@@ -91,6 +85,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 # TRUYỀN HÌNH HÀN QUỐC #
 #EXTINF:-1 tvg-id="arirang" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang (KR)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTM3U http://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTM3U http://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTM3U http://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ArirangCoKrTV/live
+#EXTM3U http://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp",KBS World (VN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
@@ -128,3 +127,15 @@ http://203.162.235.41:20099/
 http://203.162.235.41:25104
 #EXTINF:-1 tvg-id="nhkworld" group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp",NHK World (JP)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20210222145300_420.jpg",Discovery (US)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174624&extension=ts&play_token=
+#EXTINF:-1 group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",Discovery Sc (US)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174626&extension=ts&play_token=
+#EXTINF:-1 group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/06/163218LOGO-590x332.jpg",Discovery Family (US)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=174623&extension=ts&play_token=
+#EXTINF:-1 tvg-id="" group-title="KHÁM PHÁ KHOA HỌC" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi",Love Nature 4K (US)
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
