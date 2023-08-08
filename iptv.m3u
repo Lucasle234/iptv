@@ -77,7 +77,7 @@ http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
 http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="KÊNH THIẾU NHI - HOẠT HÌNH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/28/hpo7hvc5_thumbngang_296_168.webp",Cartoonito Asia (VN)
 http://live-vnp.vthanhtivi.pw:18001/BOOMERANG_HD/index.m3u8
-#EXTINF:-1 tvg-id="davincihd" group-title="KÊNH THIẾU NHI - HOẠT HÌNH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200304/2020030403/1583290746099_1675158877.webp",Da Vinci Asia (VN)
+#EXTINF:-1 tvg-id="davinci" group-title="KÊNH THIẾU NHI - HOẠT HÌNH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200304/2020030403/1583290746099_1675158877.webp",Da Vinci Asia (VN)
 https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
 #EXTINF:0 tvg-id="happykids" group-title="KÊNH THIẾU NHI - HOẠT HÌNH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/1567068739769_1675158913.webp",Happy Kids (VN)
 https://tiemnhazunn.click/tv360/tv360.php?id=212
