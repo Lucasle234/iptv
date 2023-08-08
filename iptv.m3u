@@ -131,12 +131,6 @@ http://203.162.235.41:25104
 #EXTINF:-1 tvg-id="nhkworld" group-title="KÊNH NHẬT BẢN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp",NHK World (JP)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-# KÊNH MUA SẮM #
-#EXTINF:-1 tvg-id="" group-title="KÊNH MUA SẮM" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/GS-Shop-live-vipotv-kroea.png",GS Shop (KR)
-https://gstv-gsshop.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH MUA SẮM" tvg-logo="https://vipotv.com/wp-content/uploads/2022/02/Hyundai-Hmall-live-vipotv-korean.png",Hyundai Hmall
-https://livejj.hyundaihmall.com:8443/live/hmall.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH MUA SẮM" tvg-logo="https://vipotv.com/wp-content/uploads/2022/02/Lotte-Home-Shopping-live-vipotv-korean.png",Lotte Home Shopping (KR)
-https://pchlslivesw.lotteimall.com/live/livestream/chunklist.m3u8
+
 
 
