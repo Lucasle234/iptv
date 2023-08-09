@@ -140,9 +140,9 @@ https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 https://arcgmoblie.site/fptplay/getfpt.php?id=kbs-world
 #EXTINF:0 tvg-id="kix_hd" group-title="KÊNH HÀN QUỐC" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/KIX_M_1675158891.webp",KIX (VN)
 https://arcgmoblie.site/fptplay/getfpt.php?id=kix
-#EXTINF:-1 tvg-id="SBS" group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/200px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS International (KR)
+#EXTINF:-1 tvg-id="SBS" group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS International (KR)
 https://newidco-sbs-1-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tvN" group-title="KÊNH HÀN QUỐC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN Asia (KR)
+#EXTINF:-1 tvg-id="tvN" group-title="KÊNH HÀN QUỐC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN Asia (KR)
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-id="vtc12" group-title="KÊNH HÀN QUỐC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/088pesr4_vtc123be073a780a53c8adaf7ab79b9178755_296_168.webp",VTC K (VN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
