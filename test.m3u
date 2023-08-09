@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml"
 #EXTM3U url-tvg="https://trada.info/epg.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml"
 
 # KÊNH K+ #
@@ -58,7 +58,7 @@ https://tiemnhazunn.click/tv360/tv360.php?id=216
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 
 
-# KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH #
+# KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH #
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585728414780_1675158899.webp" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH",Asian Food Network (VN)
 #EXTVLCOPT:http-user-agent="KIIP"
 https://tiemnhazunn.click/tv360/tv360.php?id=215
@@ -106,8 +106,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 
 # KÊNH THIẾU NHI #
-#EXTINF:-1 tvg-id="sctv3_see_tv" group-title="KÊNH THIẾU NHI" tvg-logo="https://img.vnmedia.xyz/logo/sctv3hd.png", See TV
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv3/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="KÊNH THIẾU NHI" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/eqy6ajv9_ngang7cd3bf1610b641314d44af0cae5d1ccb_296_168.webp",Animax (VN)
 http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" group-title="KÊNH THIẾU NHI" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/tjoyf7tj_ngang90be89a906beda93e62ca47e92837401_296_168.webp",Cartoon Network Asia (VN)
