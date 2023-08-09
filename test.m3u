@@ -62,6 +62,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585728414780_1675158899.webp" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH",Asian Food Network (VN)
 #EXTVLCOPT:http-user-agent="KIIP"
 https://tiemnhazunn.click/tv360/tv360.php?id=215
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="BBCFood.us" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH",BBC Food (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="BBCHome.us" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH",BBC Home (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="htvcdlcs" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4syej015_htvcdulich_296_168.webp" ,Du lịch Cuộc sống
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
@@ -124,8 +128,7 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 
 # KÊNH ÂM NHẠC #
-#EXTINF:-1 tvg-id="channelvhd" group-title="KÊNH ÂM NHẠC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/Channel_V_HD.png/revision/latest?cb=20211017094724&path-prefix=vi",Channel V 
-http://103.112.191.9:880/LAOSAT1070.m3u8
+
 
 
 # KÊNH HÀN QUỐC #
@@ -140,6 +143,8 @@ https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 https://arcgmoblie.site/fptplay/getfpt.php?id=kbs-world
 #EXTINF:0 tvg-id="kix_hd" group-title="KÊNH HÀN QUỐC" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/KIX_M_1675158891.webp",KIX (VN)
 https://arcgmoblie.site/fptplay/getfpt.php?id=kix
+#EXTINF:-1 tvg-id="KISS K-POP 차트쇼" tvg-logo="https://i.imgur.com/9Vp4rx2.png" group-title="KÊNH HÀN QUỐC",K-Pop (KR)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b75fb0a68400074b86fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="SBS" group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS International (KR)
 https://newidco-sbs-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" group-title="KÊNH HÀN QUỐC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN Asia (KR)
