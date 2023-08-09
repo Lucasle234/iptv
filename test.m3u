@@ -1,6 +1,6 @@
+#EXTM3U url-tvg="https://trada.info/epg.xml"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml"
-
 
 # KÊNH K+ #
 #EXTINF:0 tvg-id="kcinehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
@@ -33,6 +33,10 @@ https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="KÊNH THỂ THAO" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/SCTV-152_1675158857.webp",SSPORT2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO", Sky Racing 1
+http://kuchini.site:8080/Giobox2/aPnVqQVT6GXhu92E/201085
+#EXTINF:-1 group-title="KÊNH THỂ THAO", Sky Racing 2
+http://kuchini.site:8080/Giobox2/aPnVqQVT6GXhu92E/201086
 
 
 # KÊNH KHOA HỌC & TỰ NHIÊN #
@@ -158,3 +162,4 @@ http://203.162.235.41:20099/
 http://203.162.235.41:25104
 #EXTINF:-1 tvg-id="nhkworld" group-title="KÊNH NHẬT BẢN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp",NHK World (JP)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
