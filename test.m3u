@@ -76,8 +76,6 @@ http://livecdn.khanggtivi.duckdns.org/getplay/vieon/d5e4e349c0ceab14ee60c607c115
 #EXTINF:-1 tvg-id="woman" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/woman3_1675158912.webp",Woman (VN)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/woman3_1675158912.webp",Woman (Clip TV)
-https://10615fed5.vws.vegacdn.vn/tv-5oZzR7-wjQeAUP8RP7g/1691625715/cliptv_liverecord/womanhd_abr/cliptv_fullhd/womanhd_level4.stream/chunks_dvr_range-1691506477-3000_offset-0.m3u8?nimblesessionid=574260&user=MDk2ODU5NDI0NQ==
 
 
 # KÊNH PHIM TRUYỆN #
