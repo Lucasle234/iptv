@@ -5,24 +5,24 @@
 
 
 # KÊNH K+ #
-#EXTINF:0 tvg-id="kcine" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
+#EXTINF:0 tvg-id="kcinehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
 https://iplogger.com/CINEB4TV
-#EXTINF:0 tvg-id="klife" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/21/qvdrfjej_banner8c14595ff1f38fc300635ca9b99ad80a_296_168.webp",K+ LIFE
+#EXTINF:0 tvg-id="klifehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/21/qvdrfjej_banner8c14595ff1f38fc300635ca9b99ad80a_296_168.webp",K+ LIFE
 https://iplogger.com/LIFEB4TV
-#EXTINF:-1 tvg-id="ksport1" group-title="KÊNH K+"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/dn8r5oeu_ngang32ea2ebb7aa3bf984a50ef478006f8cc_296_168.webp",K+ SPORT1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH K+"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/dn8r5oeu_ngang32ea2ebb7aa3bf984a50ef478006f8cc_296_168.webp",K+ SPORT1
 https://iplogger.com/C1B4TV
 
 
 # KÊNH THỂ THAO #
-#EXTINF:-1 tvg-id="htvthethao" group-title="KÊNH THỂ THAO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/8u8zv29z_htv-the-thao36496cc27c05d9de45157d1c137f888a_296_168.webp",HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="KÊNH THỂ THAO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/8u8zv29z_htv-the-thao36496cc27c05d9de45157d1c137f888a_296_168.webp",HTV Thể Thao
 http://khanggtivi.duckdns.org/getplay/mytv/18/hd.m3u8
-#EXTINF:-1 tvg-id="vtvcab3" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/sz9egv82_on-sports2433448432d9730bdbbebb2fe04ffe34_296_168.webp",ON Sports
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/sz9egv82_on-sports2433448432d9730bdbbebb2fe04ffe34_296_168.webp",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/onsports.php
-#EXTINF:-1 tvg-id="vtvcab16_bong_da_tv" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/e6417m3s_vtvcab16e462a178fe33e7273278883eae733353_296_168.webp",ON Football HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/e6417m3s_vtvcab16e462a178fe33e7273278883eae733353_296_168.webp",ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vtvcab16.php
-#EXTINF:-1 tvg-id="vtvcab18_tin_tuc_the_thao_hd" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/w5evodzf_cab1861b2b45e49127d3c13305ae406b8a9a1_296_168.webp",ON Sports News
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/w5evodzf_cab1861b2b45e49127d3c13305ae406b8a9a1_296_168.webp",ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://128.199.214.24/OSN/mpegts
 # https://tiemnhazunn.click/vieon/onsportsnews.php #
@@ -131,7 +131,7 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 # KÊNH HÀN QUỐC #
 #EXTINF:-1 tvg-id="263" group-title="KÊNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang (KR)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="110" group-title="KÊNH HÀN QUỐC" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/kbs-1-live-vipotv-korea.png",KBS 1 (KR)
+#EXTINF:-1 tvg-id="KBS1" group-title="KÊNH HÀN QUỐC" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/kbs-1-live-vipotv-korea.png",KBS 1 (KR)
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1691656966&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTE2NTY5NjZ9fX1dfQ__&Signature=ejglWYyeWkB2W~Hwb6VJAePka49l0IRfCw~tpgMongqmtGtxcWsKs3jFVp4LfvgGpxg1frTAnIoawca7OiIIH4gstUIaTUkl~eu3JIhJRd~HWZQzXBYq8JGeyBLyV8E300RIcl5P40ZWELepvb9G5kfvMh7Tx~ajoN-2yuqexYj33Va-Obc7-tlRUq6649RzIeNDuZ8IV-0Rm~vfhiY-pNYE19cJ0XLPbif-vTCabQTBD5zi0qfdeiAwDU9~PeZxF-rXewz2CIETUAH7cGqmV76c9DgXgBNv4p9JngXDeCbe3zx-B8l3ZhsAHJq97-eLtHwm8smGxZCM7-Alz3ClAA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH HÀN QUỐC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp",KBS World (VN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
