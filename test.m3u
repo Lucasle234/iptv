@@ -1,6 +1,7 @@
-#EXTM3U url-tvg="https://trada.info/epg.xml"
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml"
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" m3uautoload=1
+#EXTM3U url-tvg="https://trada.info/epg.xml" m3uautoload=2
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml" m3uautoload=3
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml" m3uautoload=4
 
 # KÊNH K+ #
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
@@ -28,7 +29,7 @@ https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
 
 
 # KÊNH KHOA HỌC & TỰ NHIÊN #
-#EXTINF:-1 tvg-id="animal" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/4zwxanz9_ngang6e39dff1f114e3fe857d2dddf3cc9120_296_168.webp",Animal Planet (VN)
+#EXTINF:-1 tvg-id="animalhd" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/4zwxanz9_ngang6e39dff1f114e3fe857d2dddf3cc9120_296_168.webp",Animal Planet (VN)
 http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/r5tf6ytw_ngang9bb208c94024f2190051491e8147aabd_296_168.webp",BBC Earth (VN)
 http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
@@ -42,9 +43,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_national-geographic-hd_165647725527.png",National Geographic (VN)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://livecdn.khanggtivi.duckdns.org/getplay/vthanhtivi_getlink/tvmienphi/natgeo/playlist.php
-#EXTINF:-1 tvg-id="ngwhd" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="", National Geographic Wild East (US)
-https://e1.thetvapp.to/hls/NationalGeographicWildEast.m3u8?token=vpG37HSkstEn-fJRXbha1A&expires=1691612030
-#EXTINF:-1 tvg-id="outdoor_channel" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585727494584_1675158897.webp" ,Outdoor Channel (VN)
+#EXTINF:-1 tvg-id="outdoorhd" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585727494584_1675158897.webp" ,Outdoor Channel (VN)
 #EXTVLCOPT:http-user-agent="KIIP"
 https://tiemnhazunn.click/tv360/tv360.php?id=216
 #EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/planetEarth3_1675158874.webp",Planet Earth (VN)
@@ -93,12 +92,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 http://livecdn.khanggtivi.duckdns.org/getplay/vthanhtivi_getlink/tvmienphi/max-no-drm/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/12/m4oqw0d9_hbongagn4f6616f355267f3c46c8ffa59075e7cd_296_168.webp",HBO (VN)
 http://s4.nihontv.net:21585/hbo/index.m3u8
-#EXTINF:-1 tvg-id="hbofamily" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HBO_Family_%282014%29.svg/1280px-HBO_Family_%282014%29.svg.png", HBO Family East (US)
-https://e1.thetvapp.to/hls/HBOFamilyEast.m3u8?token=T8vuGswp5PTea8BuFrZBtg&expires=1691612489
-#EXTINF:0 tvg-id="hits" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png" group-title="KÊNH PHIM TRUYỆN",HITS HD (VN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://khanggtivi.duckdns.org/getplay/mytv/515/hd.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/b2_1675158886.webp",In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/b2_1675158886.webp",In The Box (VN)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -117,12 +111,8 @@ http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
 http://live-vnp.vthanhtivi.pw:18001/BOOMERANG_HD/index.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="KÊNH THIẾU NHI" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200304/2020030403/1583290746099_1675158877.webp",Da Vinci Asia (VN)
 http://khanggtivi.duckdns.org/getplay/mytv/294/hd.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH THIẾU NHI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/800px-DisneyChannelEMEA.svg.png", Disney Channel Easth (US)
-https://e1.thetvapp.to/hls/DisneyChannelEast.m3u8?token=3aHm-eO3OskpkbSEDO2GVQ&expires=1691611573
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH THIẾU NHI" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/1567068739769_1675158913.webp",Happy Kids (VN)
 https://tiemnhazunn.click/tv360/tv360.php?id=212
-#EXTINF:-1 tvg-id="" group-title="KÊNH THIẾU NHI" tvg-logo="https://static.wikia.nocookie.net/nickelodeon4/images/b/bc/TeenNick_Logo_%282023%29.png", Teen Nick East (US)
-https://e1.thetvapp.to/hls/TeenNickEast.m3u8?token=lEGJRDdTNIyrX5PZ_o67mA&expires=1691612293
 
 
 # KÊNH GIẢI TRÍ #
