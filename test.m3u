@@ -62,14 +62,14 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585728414780_1675158899.webp" group-title="KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH",Asian Food Network (VN)
 #EXTVLCOPT:http-user-agent="KIIP"
 https://tiemnhazunn.click/tv360/tv360.php?id=215
+#EXTINF:-1 tvg-id="htvcdlcs" group-title="KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4syej015_htvcdulich_296_168.webp" ,Du lịch Cuộc sống
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="drfithd" group-title="KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/drfit3_1675158875.webp",DR.Fit (VN)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:0 tvg-id="hgtv" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/HGTV_M_1675158876.webp" group-title="KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH",HGTV (VN)
 https://tiemnhazunn.click/tv360/tv360.php?id=99
-#EXTINF:-1 tvg-id="htvcdlcs" group-title="KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4syej015_htvcdulich_296_168.webp" ,Du lịch Cuộc sống
-#EXTVLCOPT:http-user-agent="Khanggne"
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="man" group-title="KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/man3_1675158880.webp",Man (VN)
 https://tiemnhazunn.click/tv360/tv360.php?id=237
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/8gs76uhh_vtvcab22_296_168.webp",ON Life
