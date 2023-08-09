@@ -1,6 +1,5 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 m3uautoload=3#
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=4#
+#EXTM3U url-tvg="http://trada.info/epg.xml"
+
 
 # KÊNH K+ #
 #EXTINF:0 tvg-id="kcinehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
@@ -10,7 +9,7 @@ https://iplogger.com/LIFEB4TV
 #EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH K+"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/dn8r5oeu_ngang32ea2ebb7aa3bf984a50ef478006f8cc_296_168.webp",K+ SPORT1
 https://iplogger.com/C1B4TV
 
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="GIẢI TRÍ TỔNG HỢP" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab22-life-tv/dvr-${start}-${offset}.m3u8", ON Life
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="GIẢI TRÍ TỔNG HỢP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/8gs76uhh_vtvcab22_296_168.webp",ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://livecdn.khanggtivi.duckdns.org/getplay/vieon/d5e4e349c0ceab14ee60c607c1157a63/1691333980481/livetv/on-life/playlist.m3u8
 
@@ -37,6 +36,9 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m
 
 
 # KÊNH KHOA HỌC GIÁO DỤC #
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="KÊNH KHOA HỌC GIÁO DỤC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4syej015_htvcdulich_296_168.webp" ,Du lịch Cuộc sống
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="KÊNH KHOA HỌC GIÁO DỤC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/4zwxanz9_ngang6e39dff1f114e3fe857d2dddf3cc9120_296_168.webp",Animal Planet (VN)
 http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585728414780_1675158899.webp" group-title="KÊNH KHOA HỌC GIÁO DỤC",Asian Food Network (VN)
@@ -100,6 +102,12 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 #EXTINF:0 tvg-id="hbohd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/12/m4oqw0d9_hbongagn4f6616f355267f3c46c8ffa59075e7cd_296_168.webp",HBO (VN)
 https://iplogger.com/HBOVN4M
+#EXTINF:-1 tvg-id="inthebox" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg",In The Box
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://dl.dropboxusercontent.com/s/b8e0z1u9oyy1f9a/getlink/mP7Y8whtCU6Qti7DLMuQqiS20FuiEstz/cliptv/cliptvmobile/playlist.m3u8?id=in-the-box-tv
+http://livecdn.khanggtivi.duckdns.org/getplay/api/fjpRI6UuJHoxtDliiIiU5hUOqpFYPRjJlJjeTkawE471H6AHYsy4mbA8ZfMDfmJ4fpUi9dCQZ4f0DIQFfEt5r64jO8b17SZUHGIBw/cliptv/testcliptv.php
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/hollywood5_1675158893.webp",Hollywood Classics (VN)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
@@ -120,6 +128,9 @@ https://arcgmoblie.site/fptplay/getfpt.php?id=kix
 https://newidco-sbs-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH HÀN QUỐC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN Asia (KR)
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#EXTINF:-1 tvg-id="vtc12" group-title="KÊNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png",VTC K
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://khanggtivi.duckdns.org/getplay/mytv/463/high.m3u8
 
 # KÊNH NHẬT BẢN #
 #EXTINF:-1 group-title="KÊNH NHẬT BẢN" tvg-id="fishing" tvg-logo="https://www.broadmedia.co.jp/broadcast/fishing-tv/img/bro_01.png",BS Fishing (JP) [CÂU CÁ NHẬT BẢN]
