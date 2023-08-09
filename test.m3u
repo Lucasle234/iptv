@@ -21,7 +21,7 @@ https://iplogger.com/C1B4TV
 
 
 # KÊNH THỂ THAO #
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV AND HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/8u8zv29z_htv-the-thao36496cc27c05d9de45157d1c137f888a_296_168.webp",HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="KÊNH THỂ THAO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/8u8zv29z_htv-the-thao36496cc27c05d9de45157d1c137f888a_296_168.webp",HTV Thể Thao
 http://khanggtivi.duckdns.org/getplay/mytv/18/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/sz9egv82_on-sports2433448432d9730bdbbebb2fe04ffe34_296_168.webp",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
