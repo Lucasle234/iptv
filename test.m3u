@@ -33,10 +33,6 @@ https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="KÊNH THỂ THAO" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/SCTV-152_1675158857.webp",SSPORT2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO", Sky Racing 1
-http://kuchini.site:8080/Giobox2/aPnVqQVT6GXhu92E/201085
-#EXTINF:-1 group-title="KÊNH THỂ THAO", Sky Racing 2
-http://kuchini.site:8080/Giobox2/aPnVqQVT6GXhu92E/201086
 
 
 # KÊNH KHOA HỌC & TỰ NHIÊN #
