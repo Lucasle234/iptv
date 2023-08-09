@@ -47,9 +47,6 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m
 # KÊNH KHOA HỌC & TỰ NHIÊN #
 #EXTINF:-1 tvg-id="animalhd" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/4zwxanz9_ngang6e39dff1f114e3fe857d2dddf3cc9120_296_168.webp",Animal Planet (VN)
 http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
-#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585728414780_1675158899.webp" group-title="KÊNH KHOA HỌC & TỰ NHIÊN",Asian Food Network (VN)
-#EXTVLCOPT:http-user-agent="KIIP"
-https://tiemnhazunn.click/tv360/tv360.php?id=215
 #EXTINF:-1 tvg-id="bbcearth" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/r5tf6ytw_ngang9bb208c94024f2190051491e8147aabd_296_168.webp",BBC Earth (VN)
 http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/2srt1v2v_discovery_296_168.webp",Discovery Channel (VN)
@@ -71,6 +68,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 
 
 # KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH #
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585728414780_1675158899.webp" group-title="KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH",Asian Food Network (VN)
+#EXTVLCOPT:http-user-agent="KIIP"
+https://tiemnhazunn.click/tv360/tv360.php?id=215
 #EXTINF:0 tvg-id="drfithd" group-title="KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/drfit3_1675158875.webp",DR.Fit (VN)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
