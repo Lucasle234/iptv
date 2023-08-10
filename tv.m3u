@@ -54,8 +54,6 @@ https://tiemnhazunn.click/vieon/vtvcab16.php
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/w5evodzf_cab1861b2b45e49127d3c13305ae406b8a9a1_296_168.webp",ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://128.199.214.24/OSN/mpegts
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="KÊNH THỂ THAO",REDBULL TV (US)
-https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
 
 
 # KÊNH QUỐC TẾ (phụ đề hoặc thuyết minh tiếng Việt) #
@@ -68,7 +66,7 @@ http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/2srt1v2v_discovery_296_168.webp",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/114.0.0.0 Safari/537.36
 http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="DRM" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/c6womgom_discovery-aisa_296_168.webp", Discovery Asia HD (DRM)
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/c6womgom_discovery-aisa_296_168.webp", Discovery Asia HD (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6FmY5OnlMKZnaKamKadlKRlXmlm&time=1691640181&mytv_msky&id=527
@@ -216,3 +214,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Red" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",Red by HBO
 https://xplore-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="KÊNH THỂ THAO",REDBULL TV (US)
+https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
