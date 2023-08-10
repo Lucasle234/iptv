@@ -36,7 +36,4 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6FmY5OnlMKZnaKamKadlKRlXmlm&time=1691640181&mykplus&id=ksport2
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+ (DRM)" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp",K+ KIDS (DRM)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6FmY5OnlMKZnaKamKadlKRlXmlm&time=1691640181&mykplus&id=kkids
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
