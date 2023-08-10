@@ -84,6 +84,11 @@ https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="BBCHome.us" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH",BBC Home (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png", BBC Lifestyle (UK)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6FmY5OnlMKZnaKamKadlKRlXmlm&time=1691640181&mytv_msky&id=519
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4syej015_htvcdulich_296_168.webp" ,Du lịch Cuộc sống
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
@@ -113,6 +118,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="cinemax" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp",Cinemax HD (VN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/114.0.0.0 Safari/537.36
 http://livecdn.khanggtivi.duckdns.org/getplay/vthanhtivi_getlink/tvmienphi/max-no-drm/playlist.m3u8
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld (VN)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6FmY5OnlMKZnaKamKadlKRlXmlm&time=1691640181&mytv_msky&id=523
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hbo" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/12/m4oqw0d9_hbongagn4f6616f355267f3c46c8ffa59075e7cd_296_168.webp",HBO (VN)
 http://s4.nihontv.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/b2_1675158886.webp",In The Box (VN)
@@ -123,11 +133,22 @@ http://livecdn.khanggtivi.duckdns.org/getplay/api/fjpRI6UuJHoxtDliiIiU5hUOqpFYPR
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/hollywood5_1675158893.webp",Hollywood Classics (VN)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-
+#EXTINF:-1 tvg-id="hits" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS (VN)
+https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6_480_270.png", Warner TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6FmY5OnlMKZnaKamKadlKRlXmlm&time=1691640181&mytv_msky&id=597
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
 # KÊNH THIẾU NHI #
 #EXTINF:-1 tvg-id="animaxhd" group-title="KÊNH THIẾU NHI" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/eqy6ajv9_ngang7cd3bf1610b641314d44af0cae5d1ccb_296_168.webp",Animax (VN)
 http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
+#EXTINF:-1 tvg-id="cbeebies" group-title="KÊNH THIẾU NHI" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/1mb04tg0_cbeebies_296_168.webp", BBC Cbeebies (VN)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6FmY5OnlMKZnaKamKadlKRlXmlm&time=1691640181&mytv_msky&id=525
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cartoon-network" group-title="KÊNH THIẾU NHI" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/tjoyf7tj_ngang90be89a906beda93e62ca47e92837401_296_168.webp",Cartoon Network Asia (VN)
 http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="KÊNH THIẾU NHI" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/28/hpo7hvc5_thumbngang_296_168.webp",Cartoonito Asia (VN)
