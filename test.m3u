@@ -87,7 +87,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 # KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH #
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585728414780_1675158899.webp" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH",Asian Food Network
 https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:-1 tvg-id="drfithd" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/drfit3_1675158875.webp",DR.Fit
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
@@ -210,6 +209,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6FmY5OnlMKZnaKamKadlKRlXmlm&time=1691640181&mytv_msky&id=519
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://cdn6.aptoide.com/imgs/7/e/b/7eb24f6def607f1323307eeafef5e4df_fgraphic.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Red" group-title="KÊNH KHOA HỌC & TỰ NHIÊN" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png",Red by HBO
