@@ -43,4 +43,7 @@ https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="KHOA HỌC & TỰ NHIÊN (DRM)" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/c6womgom_discovery-aisa_296_168.webp", Discovery Asia (DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6FmY5OnlMKZnaKamKadlKRlXmlm&time=1691640181&mytv_msky&id=527
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
