@@ -135,7 +135,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w507870493.m3u8
 #EXTINF:-1 tvg-id="KBS1" group-title="KÊNH HÀN QUỐC" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/kbs-1-live-vipotv-korea.png",KBS 1
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1691656966&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTE2NTY5NjZ9fX1dfQ__&Signature=ejglWYyeWkB2W~Hwb6VJAePka49l0IRfCw~tpgMongqmtGtxcWsKs3jFVp4LfvgGpxg1frTAnIoawca7OiIIH4gstUIaTUkl~eu3JIhJRd~HWZQzXBYq8JGeyBLyV8E300RIcl5P40ZWELepvb9G5kfvMh7Tx~ajoN-2yuqexYj33Va-Obc7-tlRUq6649RzIeNDuZ8IV-0Rm~vfhiY-pNYE19cJ0XLPbif-vTCabQTBD5zi0qfdeiAwDU9~PeZxF-rXewz2CIETUAH7cGqmV76c9DgXgBNv4p9JngXDeCbe3zx-B8l3ZhsAHJq97-eLtHwm8smGxZCM7-Alz3ClAA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-EXTINF:-1 tvg-id="musicbox" group-title="KÊNH HÀN QUỐC" tvg-logo="https://khanggne.github.io/logo/musicbox.jpg",Music Box (KR)
+#EXTINF:-1 tvg-id="musicbox" group-title="KÊNH HÀN QUỐC" tvg-logo="https://khanggne.github.io/logo/musicbox.jpg",Music Box (KR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://livecdn.khanggtivi.duckdns.org/getplay/vthanhtivi_getlink/mytv/69/hd.m3u8
