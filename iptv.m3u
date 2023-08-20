@@ -4,8 +4,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml" m3uautoload=3
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml" m3uautoload=4
 
-#EXTINF:-1 tvg-id="Quoc_Hoi_HD" group-title="" tvg-logo="",Trực tiếp thể thao
-https://live-zlr1.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
+
 
 # KÊNH K+ #
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH K+ " tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
