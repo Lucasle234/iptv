@@ -4,6 +4,8 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml" m3uautoload=3
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml" m3uautoload=4
 
+#EXTINF:-1 tvg-id="Quoc_Hoi_HD" group-title="" tvg-logo="",Trực tiếp thể thao
+https://live-zlr1.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 
 # KÊNH K+ #
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH K+ " tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
@@ -18,14 +20,7 @@ https://iplogger.com/C1B4TV
 
 
 # KÊNH THỂ THAO #
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="KÊNH THỂ THAO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/8u8zv29z_htv-the-thao36496cc27c05d9de45157d1c137f888a_296_168.webp",HTV Thể Thao
-http://khanggtivi.duckdns.org/getplay/mytv/18/hd.m3u8
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/sz9egv82_on-sports2433448432d9730bdbbebb2fe04ffe34_296_168.webp",ON Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/onsports.php
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/e6417m3s_vtvcab16e462a178fe33e7273278883eae733353_296_168.webp",ON Football HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/vtvcab16.php
+
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="KÊNH THỂ THAO"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/w5evodzf_cab1861b2b45e49127d3c13305ae406b8a9a1_296_168.webp",ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://128.199.214.24/OSN/mpegts
