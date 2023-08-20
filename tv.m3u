@@ -4,8 +4,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml" m3uautoload=3
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml" m3uautoload=4
 
-#EXTINF:-1 tvg-id="Quoc_Hoi_HD" group-title="" tvg-logo="",Trực tiếp thể thao
-https://live-zlr1.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
+
 
 # KÊNH K+ #
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH K+ " tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE
@@ -188,3 +187,8 @@ https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZKBiapeknMKZmqeWlqihkZ1lZV5nZ58=&time=1692507559&vieon&id=discovery-asia
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+#EXTINF:-1 tvg-id="warnertvhd" group-title="THỬ NGHIỆM" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV (THỬ NGHIỆM)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZKBiapeknMKZmqeWlqihkZ1lZV5nZ58=&time=1692507559&vieon&id=warner-tv
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
