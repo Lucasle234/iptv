@@ -62,7 +62,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 
 # KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH #
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20200401/2020040108/1585728414780_1675158899.webp" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH",Asian Food Network (KÊNH ẨM THỰC CHÂU Á)
-https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://livecdn.khanggtivi.xyz/getlink/tv360/2.m3u8?id=215
 #EXTINF:-1 tvg-id="drfithd" group-title="KÊNH ẨM THỰC, GIA ĐÌNH & DU LỊCH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/drfit3_1675158875.webp",DR.Fit (KÊNH SỨC KHỎA CHUYÊN BIỆT)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
@@ -133,7 +134,7 @@ http://livecdn.khanggtivi.duckdns.org/getplay/fpt/subs-livecdn.fptplay.net/api/M
 # KÊNH HÀN QUỐC #
 #EXTINF:-1 tvg-id="arirang" group-title="KÊNH HÀN QUỐC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_arirang_165655613785.png",ARIRANG KOREA HD (KÊNH TRUYỀN HÌNH HÀN QUỐC)
 https://dl.dropboxusercontent.com/s/efz2fshskinn0z2/getlink/arirang/arirang_1ch/arirang_1ch.smil/index.m3u8?id=arirang-korea-hd
-#EXTINF:-1 tvg-id="263" group-title="KÊNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",Arirang
+#EXTINF:-1 tvg-id="263" group-title="KÊNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",Arirang (KÊNH TRUYỀN HÌNH HÀN QUỐC)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="KÊNH HÀN QUỐC" tvg-logo="https://vipotv.com/wp-content/uploads/2022/01/kbc-sbs-live-vipotv-korean.png",KBC-SBS (KÊNH TRUYỀN HÌNH HÀN QUỐC)
 https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w507870493.m3u8
@@ -145,7 +146,7 @@ https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1691656966&Policy=eyJTdGF0ZW1lbnQ
 http://livecdn.khanggtivi.duckdns.org/getplay/vthanhtivi_getlink/mytv/69/hd.m3u8
 #EXTINF:-1 tvg-id="KISS K-POP 차트쇼" tvg-logo="https://i.imgur.com/9Vp4rx2.png" group-title="KÊNH HÀN QUỐC",K-Pop (ÂM NHẠC HÀN QUỐC)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b75fb0a68400074b86fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="SBS" group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS International
+#EXTINF:-1 tvg-id="SBS" group-title="KÊNH HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS International (KÊNH TRUYỀN HÌNH HÀN QUỐC)
 https://newidco-sbs-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" group-title="KÊNH HÀN QUỐC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN Asia (KÊNH TRUYỀN HÌNH HÀN QUỐC)
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
@@ -198,6 +199,11 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZKBiapeknMKZmqeWlqihkZ1lZV5nZ58=&time=1692507559&vieon&id=discovery-asia
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+#EXTINF:-1 tvg-id="tlchd" group-title="THỬ NGHIỆM" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC (DU LỊCH DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZKFjbJeilsKZmqeWlqihkZ1lZV5nZ58=&time=1692619533&vieon&id=travel-living
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="warnertvhd" group-title="THỬ NGHIỆM" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV (PHIM WARRNER BROS DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
