@@ -4,6 +4,12 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml" m3uautoload=3
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml" m3uautoload=4
 
+#EXTINF:-1 group-title="🇩🇪 - ĐỨC",SPORT1
+http://154.58.202.194:8000/play/a0lt/index.m3u8
+#EXTINF:-1 group-title="🇩🇪 - ĐỨC",SPORT1 HD
+http://154.58.202.194:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="🇩🇪 - ĐỨC",SPORT1+
+http://154.58.202.194:8000/play/a09y/index.m3u8
 
 #EXTINF:-1 group-title="Asiad 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp?itok=zbnvoIFI",Trực tiếp Asiad 1
 https://asia.vthanhtivi.pw/asiad1/mpegts
