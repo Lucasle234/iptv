@@ -79,9 +79,15 @@ https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="" group-title="TRUYỀN HÌNH HỒNG KÔNG" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg",TVB Vietnam (KÊNH PHIM HỒNG KÔNG)
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-
 #EXTINF:-1,tvg-id="" tvg-name="CGTNDocumentary" tvg-logo="http://gg.gg/15v6gj" group-title="TRUYỀN HÌNH HỒNG KÔNG",TVB Xing He (TH HỒNG KÔNG)
 https://sc2022.stream-link.org/tv2306.php?id=c02
+
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",Edge Sport (THỂ THAO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8?cc
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="KÊNH THỂ THAO",REDBULL TV (THỂ THAO MẠO HIỂM)
+https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
+
 
 
 #EXTINF:-1 group-title="HTV" tvg-id="htv1" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htv-1.png",HTV1
