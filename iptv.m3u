@@ -124,3 +124,13 @@ https://live.khanggtivi.xyz/rtp/?dash=232.84.2.35:10618
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/icon_channel_vtv5-tay-nam-bo_168048836001.jpg" ch-number="10",VTV5 Tây Nam Bộ (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://live.khanggtivi.xyz/rtp/?dash=232.84.3.86:11542
+
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.123:10320
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.122:10314
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.125:10326
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.176:10374
+
