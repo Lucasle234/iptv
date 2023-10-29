@@ -10,6 +10,8 @@ https://iplogger.com/CINEB4TV
 https://iplogger.com/LIFEB4TV
 #EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH K+"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/dn8r5oeu_ngang32ea2ebb7aa3bf984a50ef478006f8cc_296_168.webp",K+ SPORT1 (THỂ THAO)
 https://iplogger.com/C1B4TV
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH K+"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/dn8r5oeu_ngang32ea2ebb7aa3bf984a50ef478006f8cc_296_168.webp",K+ SPORT1 (THỂ THAO phát sóng liên tục)
+http://b4tv.live/b4tv/b4tv/1.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="KHOA HỌC & TỰ NHIÊN" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png",Animal Planet (THIÊN NHIÊN HOANG DÃ)
 http://vthanhtivi.pw:5000/animal/index.m3u8
@@ -24,7 +26,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 
-
+#EXTINF:-1 tvg-id="afnhd" group-title="ẨM THỰC, GIA ĐÌNH & DU LỊCH" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network (ẨM THỰC CHÂU Á)
+https://code.vthanhtivi.pw/getlink/tv360/u1WbFKEDxMkzCFgyjbAsOQ/1698559087/215/playlist.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="KÊNH ẨM THỰC,GIA ĐÌNH & DU LỊCH" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/drfit3_1675158875.webp",DR.Fit (KÊNH SỨC KHỎE CHUYÊN BIỆT)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
@@ -66,21 +69,23 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",Arirang (TRUYỀN HÌNH HÀN QUỐC)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp",KBS World (GIẢI TRÍ GIA ĐÌNH HÀN QUỐC)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
+http://gg.gg/HaNoiIPTV-KBS_World
 
+#EXTINF:-1  group-title="TRUYỀN HÌNH TRIỀU TIÊN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Trung%20%C6%B0%C6%A1ng%20Tri%E1%BB%81u%20Ti%C3%AAn.png",KCTV (TRUYỀN HÌNH TRUNG ƯƠNG TRIỀU TIÊN)
+https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1 tvg-id="" group-title="TRUYỀN HÌNH NHẬT BẢN" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png",NHK World (TRUYỀN HÌNH NHẬT BẢN)
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 
-
-
-#EXTINF:-1 group-title="TRUYỀN HÌNH HỒNG KÔNG" tvg-logo="https://hqth.me/tvblogo", TVB J1
+#EXTINF:-1 group-title="TRUYỀN HÌNH HỒNG KÔNG" tvg-logo="https://hqth.me/tvblogo",TVB J1 (TRUYỀN HÌNH HỒNG KÔNG)
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="" group-title="TRUYỀN HÌNH HỒNG KÔNG" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg",TVB Vietnam (KÊNH PHIM HỒNG KÔNG)
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="CGTNDocumentary" tvg-logo="http://gg.gg/15v6gj" group-title="TRUYỀN HÌNH HỒNG KÔNG",TVB Xing He (TH HỒNG KÔNG)
+#EXTINF:-1,tvg-id="" tvg-name="CGTNDocumentary" tvg-logo="http://gg.gg/15v6gj" group-title="TRUYỀN HÌNH HỒNG KÔNG",TVB Xing He (TRUYỀN HÌNH HỒNG KÔNG)
 https://sc2022.stream-link.org/tv2306.php?id=c02
+
+#EXTINF:-1  group-title="TRUYỀN HÌNH PHÁP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV5MONDE.png",TV5 MONDE ASIE (TRUYỀN HÌNH PHÁP)
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/tv5/index.m3u8
 
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",Edge Sport (THỂ THAO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -88,119 +93,33 @@ https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8?cc
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="KÊNH THỂ THAO",REDBULL TV (THỂ THAO MẠO HIỂM)
 https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
 
-
-
-#EXTINF:-1 group-title="HTV" tvg-id="htv1" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htv-1.png",HTV1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthcm-vnw.vieon.vn/livetv/93068c2a0ec828ae6ee56aa628341497/playlist.m3u8
-#EXTINF:-1 group-title="HTV" tvg-id="htv2hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htv-2.png",HTV2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthcm-vnw.vieon.vn/livetv/84e39f2158e950a0d63d783260f7ea75/playlist.m3u8
-#EXTINF:-1 group-title="HTV" tvg-id="htv3" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htv-3.png",HTV3
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthcm-vnw.vieon.vn/livetv/96f1e40fdc011502d396c2eb0c3d9627/playlist.m3u8
-#EXTINF:-1 group-title="HTV" tvg-id="htvkey" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htv-key.png",HTV4
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthcm-vnw.vieon.vn/livetv/91e13f38078114329b4b4d45f613924b/playlist.m3u8
-#EXTINF:-1 group-title="HTV" tvg-id="htv7hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htv-7.png",HTV7
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthcm-vnw.vieon.vn/livetv/60efe6198ce953ae1411fb164e334367/playlist.m3u8
-#EXTINF:-1 group-title="HTV" tvg-id="htv9hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htv-9.png",HTV9
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthcm-vnw.vieon.vn/livetv/6d8dfd97165650a8935c57262d9be67f/playlist.m3u8
-#EXTINF:-1 group-title="HTV" tvg-id="htvthethaohd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htv-the-thao.png",HTV Thể Thao
-http://live.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-5M.m3u8
-
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcplushd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htvc-plus.png",HTVC Plus
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcphimhd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htvc-phim.png",HTVC Phim
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcgiadinhhd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htvc-gia-dinh.png",HTVC Gia Đình
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcdulichhd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htvc-dl-cs.png",HTVC Du Lịch & Cuộc Sống
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcphunuhd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htvc-phu-nu.png",HTVC Phụ Nữ
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviet" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htvc-thuan-viet.png",HTVC Thuần Việt
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htvc-thuan-viet-hd.png",HTVC Thuần Việt HD
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvccanhachd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/htvc-ca-nhac.png",HTVC Ca Nhạc
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="VTV" group-logo="https://tchiphuong.github.io/iptv/images/background/vtv.png" tvg-id="vtv1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-1.png",VTV1 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-2.png",VTV2 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/65e4e2cd4a6cd1c07682cc9d1830fd3f/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-3.png",VTV3 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/00f4aa36b8d034b5e8569b77d1675c1e/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv4" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-4.png",VTV4 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/c9e89fdf42233e52a57a312baa4e9da0/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-5.png",VTV5 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/53a3ed9b2879dc2dcc2051bff6060b37/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-5-tnb.png",VTV5 Tây Nam Bộ 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/f1198968254f3d74c366645e9f5e260d/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtn" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-5-tn.png",VTV5 Tây Nguyên 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/fa394ebe0828aa7ffdb9ca25d22296de/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-6-can-tho.png",VTV Cần Thơ 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/fdb7f91923323e646a69ce149f95f6cd/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv7hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-7.png",VTV7 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/67d1c84cac97171d714848c4c34c2b3a/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-8.png",VTV8 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/fd6b24e22924ecd153258819ba2049b8/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-9.png",VTV9 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://livecdn-vthn-vnw.vieon.vn/livetv/6f34d2d2b930641beddae9c9480005a7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-1.png",VTVcab 1 | Vie Giải trí
-https://live2onsport.vtvcab.vn/dash/GIAITRI_TV_HD/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-2.png",VTVcab 2 | ON Phim Việt
-https://live2onsport.vtvcab.vn/dash/PHIM_VIET/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-3.png",VTVcab 3 | ON Sports
-https://live2onsport.vtvcab.vn/dash/THETHAO_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-4.png",VTVcab 4 | ON Movies
-https://live2onsport.vtvcab.vn/dash/VAN_HOA/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-5.png",VTVcab 5 | E Channel
-https://live2onsport.vtvcab.vn/dash/E_CHANNEL/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-6.png",VTVcab 6 | ON Sports+
-https://live2onsport.vtvcab.vn/dash/HAY_TV/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-7.png",VTVcab 7 | O2TV
-https://live2onsport.vtvcab.vn/dash/O2_TV/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-8.png",VTVcab 8 | BiBi
-https://live2onsport.vtvcab.vn/dash/BIBI/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-9.png",VTVcab 9 | Info TV
-https://live2onsport.vtvcab.vn/dash/INFO_TV/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-10.png",VTVcab 10 | ON Cine
-https://live2onsport.vtvcab.vn/dash/FILM_TV/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-12.png",VTVcab 12 | ON Style
-https://live2onsport.vtvcab.vn/dash/STYLE_TV_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-15.png",VTVcab 15 | ON Music
-https://live2onsport.vtvcab.vn/dash/M_CHANNEL/m10_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-16.png",VTVcab 16 | ON Football
-https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-17.png",VTVcab 17 | ON Trending TV
-https://live2onsport.vtvcab.vn/dash/YEAH1_TV/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-18.png",VTVcab 18 | ON Sports News
-https://live2onsport.vtvcab.vn/dash/THETHAO_TINTUC_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-19.png",VTVcab 19 | Vie Dramas
-https://live2onsport.vtvcab.vn/dash/D_DRAMAS_HD/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-20.png",VTVcab 20 | ON VFamily
-https://live2onsport.vtvcab.vn/dash/VFAMILY/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-21.png",VTVcab 21 | ON Kids
-https://live2onsport.vtvcab.vn/dash/BIBI_PLUS_clear/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-22.png",VTVcab 22 | ON Life TV
-https://live2onsport.vtvcab.vn/dash/LIFE_TV/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-23.png",VTVcab 23 | ON Golf
-https://live2onsport.vtvcab.vn/dash/THETHAO_GOLF_HD/m30_index.m3u8
-
-
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv1hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8" ch-number="1",VTV1 (HD 8.5Mbps) 
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.117:10254
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv2hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${offset}.m3u8" ch-number="2",VTV2 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.31:10594
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv3hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${offset}.m3u8" ch-number="3",VTV3 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.118:10260
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv4hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${offset}.m3u8" ch-number="4",VTV4 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.32:10600
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv5hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${offset}.m3u8" ch-number="5",VTV5 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.33:10606
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv6hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${offset}.m3u8" ch-number="6",VTV Cần Thơ (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.33:10606
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv7hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8" ch-number="7",VTV7 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.119:10266
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv8hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${offset}.m3u8",VTV8 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.34:10612
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv9hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8" ch-number="9",VTV9 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.35:10618
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/icon_channel_vtv5-tay-nam-bo_168048836001.jpg" ch-number="10",VTV5 Tây Nam Bộ (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.3.86:11542
