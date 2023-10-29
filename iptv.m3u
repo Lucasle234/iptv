@@ -68,8 +68,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 
 #EXTINF:-1 tvg-id="arirang" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",Arirang (TRUYỀN HÌNH HÀN QUỐC)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="TRUYỀN HÌNH HÀN QUỐC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp",KBS World (GIẢI TRÍ GIA ĐÌNH HÀN QUỐC)
-http://gg.gg/HaNoiIPTV-KBS_World
+#EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH HÀN QUỐC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp",KBS World (GIẢI TRÍ GIA ĐÌNH HÀN QUỐC)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 
 #EXTINF:-1  group-title="TRUYỀN HÌNH TRIỀU TIÊN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Trung%20%C6%B0%C6%A1ng%20Tri%E1%BB%81u%20Ti%C3%AAn.png",KCTV (TRUYỀN HÌNH TRUNG ƯƠNG TRIỀU TIÊN)
 https://tv.nknews.org/tvdash/stream.mpd
