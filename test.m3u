@@ -7,12 +7,13 @@
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 (THỂ THAO)
 http://m3u.at/ksport1-hd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/21/qvdrfjej_banner8c14595ff1f38fc300635ca9b99ad80a_296_168.webp",K+ SPORT2 (THỂ THAO)
+https://iplogger.com/LIFEB4TV
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp",K+ CINE (ĐIỆN ẢNH)
 https://iplogger.com/CINEB4TV
 #EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ CINE (Dự phòng)
 http://m3u.at/K-cine-hd23
-#EXTINF:-1 tvg-id="klifehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/21/qvdrfjej_banner8c14595ff1f38fc300635ca9b99ad80a_296_168.webp",K+ ACTION
-https://iplogger.com/LIFEB4TV
+
 
 
 
