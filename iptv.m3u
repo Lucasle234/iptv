@@ -132,10 +132,13 @@ https://asia.vthanhtivi.pw/In_The_Box/mpegts
 #EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX.TV" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg",In The Box (Dự phòng)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://live.khanggtivi.xyz/hls_vod/1080p/31204ce710226e1a8843c532ed2b2bb3da5b2ce643b6ec9d1edd2d89594d327f0fd188/thebox/index.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/eeog1k5p_kbs1bb127060ce3f7046d9177c2498d73fb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KBS World HD (Giải trí gia đình Hàn Quốc)
+#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png",KBS World HD (Giải trí gia đình Hàn Quốc)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/eeog1k5p_kbs1bb127060ce3f7046d9177c2498d73fb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KBS World HD (Dự phòng)
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://iplogger.org/kbs.link?id=kbs-world
-#EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX HD (Giải trí Hàn Quốc)
+#EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png",KIX HD (Giải trí Hàn Quốc)
 https://code.vthanhtivi.pw/getlink/fptplay/2DZiBH98QQ2PcTS3crCrAg/1699200245/kix/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Giải trí" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kix_16564931853.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX HD (Dự phòng)
 #EXTVLCOPT:http-user-agent=Khanggtivi/2.1
@@ -147,7 +150,9 @@ https://code.vthanhtivi.pw/getlink/cliptv/L5zx3XygU8bkZN9zbkBzIA/1699196666/man/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://drm-livecdn.khanggtivi.xyz/360/31204ce710226e1a8843c532ed2b2bb3da5b2ce643b6ec9d1edd2d89594d327f0fd188/104.28.237.72/chunklist.m3u8?vstv=237
-#EXTINF:-1 tvg-id="" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp",NHK WORLD (Truyền hình Nhật Bản)
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png",NHK World (Truyền hình Nhật Bản)
+https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp",NHK WORLD (Dự phòng)
 #EXTVLCOPT:http-user-agent=Khanggtivi
 https://dl.dropboxusercontent.com/s/5sr1a8vz7b0j2qg/getlink/b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/nhk.m3u8?id=nhk-world-asia
 #https://khanggtivi.xyz/getlink/mytv/185/hd.m3u8
@@ -169,7 +174,10 @@ https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
 https://live.khanggtivi.xyz/hls_vod/1080p/31204ce710226e1a8843c532ed2b2bb3da5b2ce643b6ec9d1edd2d89594d327f0fd188/tlchd/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="TRUYỀN HÌNH HỒNG KÔNG" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg",TVB Vietnam (KÊNH PHIM HỒNG KÔNG)
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-id="" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/14dmiww2_tv5monde_296_168.webp",TV5MONDE HD (Truyền hình Pháp)
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png",TV5MONDE HD (Truyền hình Pháp)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/tv5-monde-asie/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/14dmiww2_tv5monde_296_168.webp",TV5MONDE HD (Dự phòng)
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/playlist.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="https://khanggne.github.io/logo/MSky_TV/warnertvhd.jpg",Warner TV HD (Phim truyện Mỹ đặc sắc)
