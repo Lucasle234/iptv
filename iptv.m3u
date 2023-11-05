@@ -78,7 +78,7 @@ https://live.khanggtivi.xyz/hls_vod/1080p/31204ce710226e1a8843c532ed2b2bb3da5b2c
 https://live.khanggtivi.xyz/hls_vod/1080p/31204ce710226e1a8843c532ed2b2bb3da5b2ce643b6ec9d1edd2d89594d327f0fd188/dreamworks/index.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_da-vinci-learning_165655659384.png"tvg-name="Da Vinci (HD)"  group-title="KHOA HỌC",Da Vinci HD (Khoa học giáo dục)
 #EXTVLCOPT:http-user-agent=KhanggTivi
-#https://livecdn.khanggtivi.xyz/getlink/fpt/contents.php?id=da-vinci-learning
+http://antm.dynu.net:14285/rtp/232.84.2.131:9582
 
 
 #EXTINF:-1 tvg-id="arirang" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",Arirang (Tin tức, giải trí Hàn quốc)
@@ -192,4 +192,3 @@ https://drm-livecdn.khanggtivi.xyz/360/31204ce710226e1a8843c532ed2b2bb3da5b2ce64
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv9hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8" ch-number="9",VTV9 HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://drm-livecdn.khanggtivi.xyz/360/31204ce710226e1a8843c532ed2b2bb3da5b2ce643b6ec9d1edd2d89594d327f0fd188/104.28.237.72/chunklist.m3u8?vstv=8
-
