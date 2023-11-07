@@ -5,39 +5,40 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml" m3uautoload=4
 
 # --- Quốc tế & K+ --- #
-# Token: 9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78 #
 
 # --- K+ --- #
-#Địa chỉ IP của người dùng là: 42.115.92.151
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-https://livecdn.khanggtivi.xyz/52099f0d-fbba-4e6d-8b4c-df0feaf578e8/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/1698763599/index.m3u8?s=kpluscine&deviceType=125&userId=14532359&deviceId=33029084&type=tv&p=0&zn=netott&rkey=14532359jRLRRfLF&ctl=9.40&hc=ctl12&sl=2&drmsrv=api-v2-vthn-vnd.khanggtivi.xyz&naddr=123.29.77.73&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=VTL&rbk=17216246100&pnode=42.115.92.151&isp=all
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-https://livecdn.khanggtivi.xyz/52099f0d-fbba-4e6d-8b4c-df0feaf578e8/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/1698763599/index.m3u8?s=kpluslife&deviceType=126&userId=14532359&deviceId=33029084&type=tv&p=0&zn=netott&rkey=14532359jRLRRfLF&ctl=9.40&hc=ctl12&sl=2&drmsrv=api-v2-vthn-vnd.khanggtivi.xyz&naddr=123.29.77.73&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=VTL&rbk=17216246100&pnode=42.115.92.151&isp=all
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-https://livecdn.khanggtivi.xyz/52099f0d-fbba-4e6d-8b4c-df0feaf578e8/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/1698763599/index.m3u8?s=kplus1&deviceType=127&userId=14532359&deviceId=33029084&type=tv&p=0&zn=netott&rkey=14532359jRLRRfLF&ctl=9.40&hc=ctl12&sl=2&drmsrv=api-v2-vthn-vnd.khanggtivi.xyz&naddr=123.29.77.73&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=VTL&rbk=17216246100&pnode=42.115.92.151&isp=all
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-https://livecdn.khanggtivi.xyz/52099f0d-fbba-4e6d-8b4c-df0feaf578e8/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/1698763599/index.m3u8?s=kplus2&deviceType=128&userId=14532359&deviceId=33029084&type=tv&p=0&zn=netott&rkey=14532359jRLRRfLF&ctl=9.40&hc=ctl12&sl=2&drmsrv=api-v2-vthn-vnd.khanggtivi.xyz&naddr=123.29.77.73&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=VTL&rbk=17216246100&pnode=42.115.92.151&isp=all
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-https://livecdn.khanggtivi.xyz/52099f0d-fbba-4e6d-8b4c-df0feaf578e8/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/1698763599/index.m3u8?s=kids&deviceType=129&userId=14532359&deviceId=33029084&type=tv&p=0&zn=netott&rkey=14532359jRLRRfLF&ctl=9.40&hc=ctl12&sl=2&drmsrv=api-v2-vthn-vnd.khanggtivi.xyz&naddr=123.29.77.73&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=VTL&rbk=17216246100&pnode=42.115.92.151&isp=all
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/PzlEguH.jpg", K+ CINE FHD [Điện ảnh]
+http://m3u.at/Kcine-hd
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://i.ibb.co/QmfJbQ7/2023-10-17-khichplus-action.png", K+ ACTION FHD [Hành động]
+http://m3u.at/KLife-hd
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/IXa0Fms.jpg", K+ SPORT1 FHD [Thể thao]
+http://m3u.at/Mytvk-sport1-hd
+#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/zxK3jmf.jpg", K+ SPORT2 FHD [Thể thao]
+http://m3u.at/mytvk-sport2
+#EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS FHD [Thiếu nhi]
+http://m3u.at/Kkids23-fhd
+#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE [Trực tiếp]
+http://m3u.at/Klive1-hd
 
-# --- K+ dự phòng --- #
-#EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp", K+ CINE [Điện ảnh]
-http://m3u.at/K-cine-hd23
-#EXTINF:-1 tvg-id="klifehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/21/qvdrfjej_banner8c14595ff1f38fc300635ca9b99ad80a_296_168.webp", K+ ACTION/SPORT2 [Phim/Thể thao]
-https://iplogger.com/LIFEB4TV
-#EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH K+"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/dn8r5oeu_ngang32ea2ebb7aa3bf984a50ef478006f8cc_296_168.webp", K+ SPORT1 [Thể thao]
-http://m3u.at/ksport1-hd
-
-
+# --- K+ --- #
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/tcSVkXd.jpg", K+ CINE HD [dự phòng]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5jq4/k+cine/vbk-plus.m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.ibb.co/QmfJbQ7/2023-10-17-khichplus-action.png", K+ ACTION HD [dự phòng]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5jq5/khich-plus/k+action.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/MbwcLsk.jpg", K+ SPORT1 HD [dự phòng]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5jq6/khich-plus/k+1.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" group-logo="https://i.imgur.com/V5WN5jd.jpg" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", K+ SPORT2 HD [dự phòng]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5jq7/khich-plus/k+2.m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://i.imgur.com/bD895dn.jpg", K+ KIDS HD [dự phòng]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5jq8/khich-plus/k+kids.m3u8
 
 # --- KHÁM PHÁ --- #
 #EXTINF:-1 tvg-id="animalhd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/vop9bsxi_animal-planet_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", Animal Planet HD [Thiên nhiên hoang dã]
-#https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/animalplanet/index.m3u8
 http://vthanhtivi.pw:5000/animal/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/66kpgfn6_bbc-earth_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", BBC Earth HD [Thiên nhiên Trái Đất]
 http://vthanhtivi.pw:5000/bbcearth/index.m3u8
@@ -75,7 +76,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 https://drm-livecdn.khanggtivi.xyz/360/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/42.115.92.151/chunklist.m3u8?vstv=99
 #EXTINF:-1 tvg-id="kix" group-title="Giải trí" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kix_16564931853.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", KIX HD [Giải trí Hàn Quốc]
 #EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/kid/index.m3u8
+#https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/kid/index.m3u8
+#EXTVLCOPT: http-user-agent = KhichTivi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://iplogger.com/Kix-hd-khichtv.m3u8
 #EXTINF:-1 tvg-id="man" group-title="Giải trí" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man [Đẳng cấp quý ông]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -88,30 +92,35 @@ https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f
 #https://drm-livecdn.khanggtivi.xyz/360/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/42.115.92.151/chunklist.m3u8?vstv=163
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="https://khanggne.github.io/logo/MSky_TV/warnertvhd.jpg", Warner TV HD [Phim Warner Brost]
-https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/warnertv/index.m3u8
+#https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/warnertv/index.m3u8
+http://m3u.at/WBTV-hdm3u8
 
 # --- PHIM ẢNH --- #
 #EXTINF:0 tvg-id="AXN" group-title="PHIM ẢNH" tvg-logo="https://khanggne.github.io/logo/MSky_TV/axn.png", AXN HD [Giải trí quốc tế]
 http://vthanhtivi.pw:5000/axn/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="PHIM ẢNH" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits [Phim điện ảnh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/boxhit/index.m3u8
+#https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/boxhit/index.m3u8
+http://m3u.at/BOX-Hits
 #EXTINF:0 tvg-id="boxmovie1" group-title="PHIM ẢNH" tvg-logo="https://khanggne.github.io/logo/boxmovie1.jpg", Box Movie 1 [Phim tổng hợp]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-user-agent=ReactnativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/boxmovie/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://khanggne.github.io/logo/MSky_TV/cinemaxhd.png" group-title="PHIM ẢNH", CINEMAX HD [Phim truyện hành động]
 #https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/cinemaxhd/index.m3u8
-http://vthanhtivi.pw:5000/cinemax/index.m3u8
+#http://vthanhtivi.pw:5000/cinemax/index.m3u8
+http://m3u.at/xtream-cinemax-
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="PHIM ẢNH" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld [Điện ảnh quốc tế]
-https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/cinemaworld/index.m3u8
+#https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/cinemaworld/index.m3u8
+http://m3u.at/cinemaworld
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="PHIM ẢNH", HBO HD [Phim bom tấn Hollywood]
 #https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/hbo/index.m3u8
-http://vthanhtivi.pw:5000/hbo/index.m3u8
+#http://vthanhtivi.pw:5000/hbo/index.m3u8
+http://m3u.at/xtream-hbo-hd
 #EXTINF:-1 tvg-id="hits" group-title="PHIM ẢNH" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS [Phim series]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://drm-livecdn.khanggtivi.xyz/360/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/42.115.92.151/chunklist.m3u8?vstv=107
+#https://drm-livecdn.khanggtivi.xyz/360/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/42.115.92.151/chunklist.m3u8?vstv=107
+https://tiemnhazunn.click/tv360/tv360.php?id=107
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="PHIM ẢNH" tvg-logo="https://khanggne.github.io/logo/hollywoodclassics.jpg", Hollywood Classics [Phim kinh điển Hollywood]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -120,7 +129,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="PHIM ẢNH" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg", In The Box [Phim series ấn tượng]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/thebox/index.m3u8
+#https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/thebox/index.m3u8
+http://m3u.at/in-the-boxkhic
 #EXTINF:-1 tvg-id="" group-title="PHIM ẢNH" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam (Phim Hồng Kông)
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
