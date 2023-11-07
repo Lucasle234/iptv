@@ -5,7 +5,6 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml" m3uautoload=4
 
 # --- Quốc tế & K+ --- #
-# --- Cập nhật token 22:32:00 07-11-23 --- #
 
 # --- K+ --- #
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE FHD [Điện ảnh]
@@ -25,7 +24,7 @@ http://m3u.at/Klive1-hd
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://cdn.hqth.me/logo/thumbs/85.png" tvg-logo="https://i.imgur.com/tcSVkXd.jpg", K+ CINE HD [dự phòng]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq4/k+cine/vbk-plus.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" group-logo="https://khanggtivi.xyz/cdn/86.png" tvg-logo="https://i.ibb.co/QmfJbQ7/2023-10-17-khichplus-action.png", K+ ACTION HD [dự phòng]
+#EXTINF:-1 tvg-id="kaction" group-title="K+" group-logo="https://khanggtivi.xyz/cdn/86.png" tvg-logo="https://i.ibb.co/QmfJbQ7/2023-10-17-khichplus-action.png", K+ ACTION HD [dự phòng]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq5/khich-plus/k+action.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" group-logo="https://cdn.hqth.me/logo/thumbs/87.png" tvg-logo="https://i.imgur.com/MbwcLsk.jpg", K+ SPORT1 HD [dự phòng]
