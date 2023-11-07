@@ -25,6 +25,16 @@ https://livecdn.khanggtivi.xyz/52099f0d-fbba-4e6d-8b4c-df0feaf578e8/9c84f80579ec
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://livecdn.khanggtivi.xyz/52099f0d-fbba-4e6d-8b4c-df0feaf578e8/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/1698763599/index.m3u8?s=kids&deviceType=129&userId=14532359&deviceId=33029084&type=tv&p=0&zn=netott&rkey=14532359jRLRRfLF&ctl=9.40&hc=ctl12&sl=2&drmsrv=api-v2-vthn-vnd.khanggtivi.xyz&naddr=123.29.77.73&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=VTL&rbk=17216246100&pnode=42.115.92.151&isp=all
 
+# --- K+ dự phòng --- #
+#EXTINF:-1 tvg-id="kcinehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b_296_168.webp", K+ CINE [Điện ảnh]
+http://m3u.at/K-cine-hd23
+#EXTINF:-1 tvg-id="klifehd" group-title="KÊNH K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/21/qvdrfjej_banner8c14595ff1f38fc300635ca9b99ad80a_296_168.webp", K+ ACTION/SPORT2 [Phim/Thể thao]
+https://iplogger.com/LIFEB4TV
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KÊNH K+"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/20/dn8r5oeu_ngang32ea2ebb7aa3bf984a50ef478006f8cc_296_168.webp", K+ SPORT1 [Thể thao]
+http://m3u.at/ksport1-hd
+
+
+
 # --- KHÁM PHÁ --- #
 #EXTINF:-1 tvg-id="animalhd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/vop9bsxi_animal-planet_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", Animal Planet HD [Thiên nhiên hoang dã]
 #https://live.khanggtivi.xyz/hls_vod/1080p/9c84f80579ecfe6ba1e1dc4579ea7d6c4c3f4f58e12e46eaaba3466f69e414680dfc78/animalplanet/index.m3u8
@@ -160,4 +170,7 @@ https://dl.dropboxusercontent.com/s/5sr1a8vz7b0j2qg/getlink/b-nhkwlive-xjp.nhkwo
 #EXTINF:-1 tvg-id="" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/14dmiww2_tv5monde_296_168.webp", TV5MONDE HD [Truyền hình Pháp]
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="SPORTS", REDBULL TV [Thể thao mạo hiểm]
+https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
 
