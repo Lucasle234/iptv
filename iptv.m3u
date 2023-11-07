@@ -4,7 +4,8 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml" m3uautoload=3
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml" m3uautoload=4
 
-# Token: c62406a429b4d7dcf86ed132b7fa8ff47dd63d8c4cb032eb09e1f572c735373733ee8 #
+# --- Quốc tế & K+ --- #
+# Token: c62406a429b4d7dcf86ed132b7fa8ff47dd63d8c4cb032eb09e1f572c735373733ee89 #
 
 # --- K+ --- #
 #Địa chỉ IP của người dùng là: 42.119.148.136
@@ -142,6 +143,10 @@ https://qnetlive.nethubtv.vn/live/dw.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/4e1bqp9y_france-english_296_168.webp", France 24 HD [Thời sự Pháp]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://qnetlive.nethubtv.vn/live/france24hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 [Truyền hình Hàn Quốc]
+https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+#EXTINF:-1 group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", KBS2 [Truyền hình Hàn Quốc]
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/eeog1k5p_kbs1bb127060ce3f7046d9177c2498d73fb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", KBS World HD [Giải trí gia đình Hàn Quốc]
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://iplogger.org/kbs.link?id=kbs-world
@@ -152,6 +157,4 @@ https://dl.dropboxusercontent.com/s/5sr1a8vz7b0j2qg/getlink/b-nhkwlive-xjp.nhkwo
 #EXTINF:-1 tvg-id="" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/14dmiww2_tv5monde_296_168.webp", TV5MONDE HD [Truyền hình Pháp]
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/playlist.m3u8
-
-
 
