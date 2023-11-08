@@ -6,6 +6,13 @@
 
 # --- Quốc tế & K+ --- #
 
+# --- TEST TÍN HIỆU --- #
+# Token: c4401bfc7fa0cc573367ab1ce8cceb6ab1103bb003283b0e38831f2682826f25b0ec05 #
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", TEST TÍN HIỆU
+#EXTVLCOPT:http-user-agent=Khanggtivi/2.1
+https://drm-livecdn.khanggtivi.xyz/360/c4401bfc7fa0cc573367ab1ce8cceb6ab1103bb003283b0e38831f2682826f25b0ec05/42.115.92.151/chunklist.m3u8?vstv=215
+
+
 # --- K+ --- #
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE FHD [Điện ảnh]
 http://m3u.at/Kcine-hd
