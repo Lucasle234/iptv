@@ -5,9 +5,9 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml" m3uautoload=4
 
 # --- nsfw --- #
-#EXTINF:-1 tvg-id="EroX.nl" tvg-logo="https://i.imgur.com/B9Fz9Yr.png" group-title="XXX",EroX (720p)
+#EXTINF:-1 tvg-id="EroX.nl" tvg-logo="https://i.imgur.com/B9Fz9Yr.png" group-title="XXX", Channel 1
 https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EroXXX.nl" tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="XXX",EroXXX (720p)
+#EXTINF:-1 tvg-id="EroXXX.nl" tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="XXX", Channel 2
 https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
 #EXTINF:-1 group-title="XXX", SPORT1
 http://154.58.202.194:8000/play/a0lt/index.m3u8
