@@ -155,7 +155,7 @@ https://live.khanggtivi.xyz/hls_vod/1080p/c4401bfc7fa0cc573367ab1ce8cceb6ab1103b
 http://vthanhtivi.pw:5000/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_da-vinci-learning_165655659384.png"tvg-name="Da Vinci (HD)"  group-title="KHOA HỌC", Da Vinci HD [Giáo dục thiếu nhi]
 #EXTVLCOPT:http-user-agent=KhanggTivi
-#https://livecdn.khanggtivi.xyz/getlink/fpt/contents.php?id=da-vinci-learning
+http://antm.dynu.net:14285/rtp/232.84.2.131:9582
 #EXTINF:-1 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://khanggne.github.io/logo/MSky_TV/dreamworks.jpg" , Dreamworks [Hoạt hình cho thiếu nhi]
 https://live.khanggtivi.xyz/hls_vod/1080p/c4401bfc7fa0cc573367ab1ce8cceb6ab1103bb003283b0e38831f2682826f25b0ec05/dreamworks/index.m3u8
 #EXTINF:0 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://khanggne.github.io/logo/happykids.jpg", Happy Kids [Hoạt hình và series cho thiếu nhi]
