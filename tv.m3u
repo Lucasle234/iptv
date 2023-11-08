@@ -65,8 +65,8 @@ https://drm-livecdn.khanggtivi.xyz/360/69f9a1d696d70bb35407f0f8fdb206b81475f87af
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#https://drm-livecdn.khanggtivi.xyz/360/69f9a1d696d70bb35407f0f8fdb206b81475f87af479e0259f754938a20ac67329e251/42.115.92.151/chunklist.m3u8?vstv=135
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+https://drm-livecdn.khanggtivi.xyz/360/69f9a1d696d70bb35407f0f8fdb206b81475f87af479e0259f754938a20ac67329e251/42.115.92.151/chunklist.m3u8?vstv=135
+#https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 
 # --- GIẢI TRÍ --- #
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png" group-title="Giải trí", AFN HD [Ẩm thực Châu Á]
@@ -96,8 +96,8 @@ https://live.khanggtivi.xyz/hls_vod/1080p/69f9a1d696d70bb35407f0f8fdb206b81475f8
 #EXTINF:0 tvg-id="woman" group-title="Giải trí" tvg-logo="https://khanggne.github.io/logo/woman.jpg", Woman [Phụ nữ chuyên biệt]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#https://drm-livecdn.khanggtivi.xyz/360/69f9a1d696d70bb35407f0f8fdb206b81475f87af479e0259f754938a20ac67329e251/42.115.92.151/chunklist.m3u8?vstv=163
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
+https://drm-livecdn.khanggtivi.xyz/360/69f9a1d696d70bb35407f0f8fdb206b81475f87af479e0259f754938a20ac67329e251/42.115.92.151/chunklist.m3u8?vstv=163
+#https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="https://khanggne.github.io/logo/MSky_TV/warnertvhd.jpg", Warner TV HD [Phim Warner Brost]
 #https://live.khanggtivi.xyz/hls_vod/1080p/69f9a1d696d70bb35407f0f8fdb206b81475f87af479e0259f754938a20ac67329e251/warnertv/index.m3u8
 http://m3u.at/WBTV-hdm3u8
