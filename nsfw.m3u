@@ -5,9 +5,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/koreapremium.xml" m3uautoload=4
 
 # --- nsfw --- #
-#EXTINF:-1 group-title="nsfw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png", Channel 4 [Nội dung tiếng Anh]
-http://stream.cvmtv.site/Channel4?token=live
-#EXTINF:-1 group-title="nsfw", XXX FHD [Nội dung tiếng Đức]
-http://154.58.202.194:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="nsfw", XXX HD [Nội dung tiếng Đức]
-http://154.58.202.194:8000/play/a0lt/index.m3u8
+#EXTINF:-1 tvg-id="EroX.nl" tvg-logo="https://i.imgur.com/B9Fz9Yr.png" group-title="XXX",EroX (720p)
+https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EroXXX.nl" tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="XXX",EroXXX (720p)
+https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
