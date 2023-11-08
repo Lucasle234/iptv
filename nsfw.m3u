@@ -9,3 +9,8 @@
 https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EroXXX.nl" tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="XXX",EroXXX (720p)
 https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+http://154.58.202.194:8000/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="XXX",SPORT1
+http://154.58.202.194:8000/play/a0lt/index.m3u8
+#EXTINF:-1 group-title="XXX",SPORT1 HD
+http://154.58.202.194:8000/play/a046/index.m3u8
