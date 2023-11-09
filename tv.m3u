@@ -6,14 +6,12 @@
 
 # --- Quốc tế & K+ --- #
 
-#EXTINF:0; Loading
-http://khanggtivi.xyz
-
+# Token: 79da356c1417b49b196bf1ddd8b202adb5bcab93dfdc7d3a574258c3a720ca3db22c83 #
 
 # --- K+ --- #
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE FHD [Điện ảnh]
 http://m3u.at/Kcine-hd
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION FHD [Hành động]
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION FHD [Hành động]
 http://m3u.at/KLife-hd
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 FHD [Thể thao]
 http://m3u.at/Mytvk-sport1-hd
@@ -28,7 +26,7 @@ http://m3u.at/Klive1-hd
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD [dự phòng]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq4/k+cine/vbk-plus.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION HD [dự phòng]
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD [dự phòng]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq5/khich-plus/k+action.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD [dự phòng]
@@ -125,17 +123,16 @@ https://dl.dropboxusercontent.com/s/5sr1a8vz7b0j2qg/getlink/b-nhkwlive-xjp.nhkwo
 #EXTINF:-1 tvg-id="" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/14dmiww2_tv5monde_296_168.webp", TV5MONDE HD [Truyền hình Pháp]
 https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="SPORTS", REDBULL TV [Thể thao mạo hiểm]
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="THỂ THAO", REDBULL TV [Thể thao mạo hiểm]
 https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
 
-# --- TEST --- #
+# --- Thời trang --- #
 #EXTINF:-1 tvg-id="fashionhd" group-title="THỜI TRANG" tvg-logo="https://i.imgur.com/Zryq8k6.png", Fashion TV UHD [Thời trang]
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="THỜI TRANG", World Fashion Channel [Thời trang]
+#EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="THỜI TRANG", World Fashion Channel [Thời trang]
 http://live-3.otcnet.ru/wfcint/index.m3u8
 
 # --- Kênh cần cập nhật token --- #
-# Token:  #
 
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/c6womgom_discovery-aisa_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", Discovery Asia HD [Khám phá Châu Á]
 https://live.khanggtivi.xyz/hls_vod/1080p/79da356c1417b49b196bf1ddd8b202adb5bcab93dfdc7d3a574258c3a720ca3db22c83/discoveryasia/index.m3u8
