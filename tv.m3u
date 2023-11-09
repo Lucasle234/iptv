@@ -6,7 +6,10 @@
 
 # --- Quốc tế & K+ --- #
 
-# Token: 79da356c1417b49b196bf1ddd8b202adb5bcab93dfdc7d3a574258c3a720ca3db22c83 #
+#EXTINF:0 tvg-id="update" group-title="INFO-SYSTEM", Kiểm tra tín hiệu
+#Địa chỉ IP hiện tại của bạn là 42.119.148.245
+#Token: 79da356c1417b49b196bf1ddd8b202adb5bcab93dfdc7d3a574258c3a720ca3db22c83
+https://code.vthanhtivi.pw/getlink/onlive/testonlive/83993.m3u8
 
 # --- K+ --- #
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE FHD [Điện ảnh]
