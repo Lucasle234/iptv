@@ -130,7 +130,12 @@ https://dl.dropboxusercontent.com/s/5sr1a8vz7b0j2qg/getlink/b-nhkwlive-xjp.nhkwo
 #EXTINF:-1 tvg-id="" group-title="Đối ngoại/Tin tức quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/14dmiww2_tv5monde_296_168.webp", TV5MONDE HD [Truyền hình Pháp]
 https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="THỂ THAO", REDBULL TV [Thể thao mạo hiểm]
+# --- # ---#
+#EXTINF:-1 tvg-id="" group-title="#" tvg-logo="https://images.squarespace-cdn.com/content/v1/54b32958e4b08972957c461b/1615504400122-FLJAAPMSITVB96CD2Y06/image-asset.png?format=1500w", GEM [Giải trí Nhật Bản]
+https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="#" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f0399e5b096b01cd79e8ac5/1594936869834-MBPKYN93MFD8IFBS1SU9/ONE_26_LogoIdent_08.png", ONE [Giải trí Hàn Quốc]
+https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="#", REDBULL TV [Thể thao mạo hiểm]
 https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
 
 # --- THỜI TRANG --- #
