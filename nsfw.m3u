@@ -5,15 +5,15 @@ http://31.148.48.15:80/O-la-la/index.m3u8?token=test
 http://94.229.250.73:8008/play/a002
 #EXTINF:-1 group-title="NSFW" tvg-id="playboy-tv" , [18+] Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="", [18+] Penthouse Gold HD
+#EXTINF:-1 group-title="NSFW" tvg-id="penthouse-gold", [16+] Penthouse Gold HD
 http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="", [18+] Babes TV
+#EXTINF:-1 group-title="NSFW" tvg-id="babes-tv", [18+] Babes TV
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="", [18+] Barely Legal
+#EXTINF:-1 group-title="NSFW" tvg-id="barely-legal", [18+] Barely Legal
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/871/index.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="", [18+] Red Lips
+#EXTINF:-1 group-title="NSFW" tvg-id="redlips", [18+] Red Lips
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="", [18+] Dorcel TV
+#EXTINF:-1 group-title="NSFW" tvg-id="dorcel", [18+] Dorcel TV
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="", [18+] Extasy 4K
+#EXTINF:-1 group-title="NSFW" tvg-id="extasy4k", [18+] Extasy 4K
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
