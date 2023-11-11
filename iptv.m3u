@@ -100,6 +100,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://khanggne.github.io/logo/MSky_TV/cinemaxhd.png" group-title="PHIM ẢNH", CINEMAX HD [Phim truyện hành động]
 #http://vthanhtivi.pw:5000/cinemax/index.m3u8
 http://m3u.at/xtream-cinemax-
+#EXTINF:-1 tvg-id="" group-title="PHIM ẢNH" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000076_IVP_LAND_586x330.jpg", Celestial Movies [Phim Hồng Kông]
+https://code.vthanhtivi.pw/getlink/eazie/243113/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="PHIM ẢNH" tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/s640/celestial%2Bclassic%2Bmovies.jpeg", Celestial Classic Movies [Phim kinh điển Hồng Kông]
+https://code.vthanhtivi.pw/getlink/eazie/242920/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="PHIM ẢNH" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld [Điện ảnh quốc tế]
 http://m3u.at/cinemaworld
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="PHIM ẢNH", HBO HD [Phim bom tấn Hollywood]
