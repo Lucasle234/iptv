@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="NSFW" tvg-id="o-la-la", [18+] O-la-la
+#EXTINF:-1 group-title="NSFW" tvg-id="o-la-la" tvg-logo="https://picon.pp.ua/o-la-la.png" , [18+] O-la-la
 http://31.148.48.15:80/O-la-la/index.m3u8?token=test
-#EXTINF:-1 group-title="NSFW" tvg-id="erox", [18+] Erox
+#EXTINF:-1 group-title="NSFW" tvg-id="erox" tvg-logo="ttps://picon.pp.ua/erox.png" , [18+] Erox
 http://94.229.250.73:8008/play/a002
-#EXTINF:-1 group-title="NSFW" tvg-id="playboy-tv" , [18+] Playboy
+#EXTINF:-1 group-title="NSFW" tvg-id="playboy-tv" tvg-logo="https://picon.pp.ua/playboy-tv.png" , [18+] Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="penthouse-gold", [16+] Penthouse Gold HD
+#EXTINF:-1 group-title="NSFW" tvg-id="penthouse-gold" tvg-logo="https://picon.pp.ua/penthouse-gold.png" , [16+] Penthouse Gold HD
 http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="babes-tv", [18+] Babes TV
+#EXTINF:-1 group-title="NSFW" tvg-id="babes-tv" tvg-logo="https://picon.pp.ua/babes-tv.png" , [18+] Babes TV
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="barely-legal", [18+] Barely Legal
+#EXTINF:-1 group-title="NSFW" tvg-id="barely-legal" tvg-logo="https://picon.pp.ua/barely-legal.png" , [18+] Barely Legal
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/871/index.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="redlips", [18+] Red Lips
+#EXTINF:-1 group-title="NSFW" tvg-id="redlips"tvg-logo="https://picon.pp.ua/redlips.png" , [18+] Red Lips
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="dorcel", [18+] Dorcel TV
+#EXTINF:-1 group-title="NSFW" tvg-id="dorcel" tvg-logo="https://picon.pp.ua/dorcel.png" , [18+] Dorcel TV
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
-#EXTINF:-1 group-title="NSFW" tvg-id="extasy4k", [18+] Extasy 4K
+#EXTINF:-1 group-title="NSFW" tvg-id="extasy4k" tvg-logo="https://picon.pp.ua/extasy4k.png" , [18+] Extasy 4K
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
