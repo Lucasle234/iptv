@@ -2,7 +2,9 @@
 #EXTINF:-1 group-title="NSFW" tvg-id="o-la-la" tvg-logo="https://picon.pp.ua/o-la-la.png" , [18+] O-la-la
 http://31.148.48.15:80/O-la-la/index.m3u8?token=test
 #EXTINF:-1 group-title="NSFW" tvg-id="erox" tvg-logo="ttps://picon.pp.ua/erox.png" , [18+] Erox
-http://94.229.250.73:8008/play/a002
+https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="eroxxxhd" tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="NSFW", [18+] EroXXX
+https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
 #EXTINF:-1 group-title="NSFW" tvg-id="playboy-tv" tvg-logo="https://picon.pp.ua/playboy-tv.png" , [18+] Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="NSFW" tvg-id="penthouse-gold" tvg-logo="https://picon.pp.ua/penthouse-gold.png" , [16+] Penthouse Gold HD
@@ -17,3 +19,11 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
 #EXTINF:-1 group-title="NSFW" tvg-id="extasy4k" tvg-logo="https://picon.pp.ua/extasy4k.png" , [18+] Extasy 4K
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
+#EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="NSFW", [18+] Brazzers TV Europe
+https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="hustler-hd" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="NSFW", [18+] Hustler HD
+https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="NSFW", [18+] Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="private-tv" tvg-logo="https://i.imgur.com/89E8Ev2.png" group-title="NSFW", [18+] Private TV HD
+https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
