@@ -109,7 +109,7 @@ http://m3u.at/cinemaworld
 http://m3u.at/xtream-hbo-hd
 #EXTINF:-1 tvg-id="hits" group-title="PHIM ẢNH" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS [Phim series]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tiemnhazunn.click/tv360/tv360.php?id=107
+https://drm-livecdn.khanggtivi.xyz/360/f671311e73e05d23eb6d85468d1ce5b3f05382c812629f2026174b9eaee34b6f95aa57/113.188.193.171/chunklist.m3u8?vstv=107
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="PHIM ẢNH" tvg-logo="https://khanggne.github.io/logo/hollywoodclassics.jpg", Hollywood Classics [Phim kinh điển Hollywood]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -118,7 +118,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 http://m3u.at/in-the-boxkhic
-#EXTINF:-1 tvg-id="" group-title="PHIM ẢNH" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam (Phim Hồng Kông)
+#EXTINF:-1 tvg-id="" group-title="PHIM ẢNH" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam [Phim Hồng Kông]
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
 # --- THIẾU NHI --- #
