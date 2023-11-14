@@ -23,7 +23,7 @@ http://m3u.at/Kkids23-fhd
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE [Trực tiếp]
 http://m3u.at/Klive1-hd
 
-# --- K+ --- #
+# --- K+ dự phòng --- #
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD [dự phòng]
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq4/k+cine/vbk-plus.m3u8
@@ -72,8 +72,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 # --- GIẢI TRÍ --- #
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png" group-title="GIẢI TRÍ", AFN HD [Ẩm thực Châu Á] *
-#EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-http://f56ba39027.vws.khanggtivi.xyz/360/9CGx7YEqZxR09m5vCbZVn8MbWvuM5gEhWiNUlx5Xx2jhSS4/42.115.92.176/chunklist.m3u8?vstv=15
+https://code.vthanhtivi.pw/getlink/tv360/GjKvje7b97j90WgPKEsZzQ/1699970992/215/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dmax" group-title="Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/27/3wp3wqkr_livetv-thumb_296_168.webp", DMAX HD [Phong cách nam giới] *
 http://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/9CGx7YEqZxR09m5vCbZVn8MbWvuM5gEhWiNUlx5Xx2jhSS4/dmax/index.m3u8
