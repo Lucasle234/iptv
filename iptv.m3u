@@ -72,7 +72,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 # --- GIẢI TRÍ --- #
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png" group-title="GIẢI TRÍ", AFN HD [Ẩm thực Châu Á] *
-https://code.vthanhtivi.pw/getlink/tv360/SDyYLjBkP4fJGiug6KRc6Q/1699956813/215/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Khanggtivi/2.1
+http://f56ba39027.vws.khanggtivi.xyz/360/9CGx7YEqZxR09m5vCbZVn8MbWvuM5gEhWiNUlx5Xx2jhSS4/42.115.92.176/chunklist.m3u8?vstv=15
 
 #EXTINF:-1 tvg-id="dmax" group-title="Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/27/3wp3wqkr_livetv-thumb_296_168.webp", DMAX HD [Phong cách nam giới] *
 http://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/9CGx7YEqZxR09m5vCbZVn8MbWvuM5gEhWiNUlx5Xx2jhSS4/dmax/index.m3u8
@@ -82,7 +83,8 @@ http://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/9CGx7YEqZxR09m5vCbZVn8MbWvuM5
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 
 #EXTINF:0 tvg-id="hgtv" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png" group-title="GIẢI TRÍ", HGTV HD [Nhà cửa] *
-https://code.vthanhtivi.pw/getlink/tv360/yZfXnjiD9X2AMDDSVFmj5A/1699956813/99/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://f56ba39027.vws.khanggtivi.xyz/360/9CGx7YEqZxR09m5vCbZVn8MbWvuM5gEhWiNUlx5Xx2jhSS4/42.115.92.176/chunklist.m3u8?vstv=99
 
 #EXTINF:-1 tvg-id="kix" group-title="GIẢI TRÍ" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kix_16564931853.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", KIX HD [Giải trí Hàn Quốc]
 #EXTVLCOPT: http-user-agent = KhichTivi
@@ -90,8 +92,9 @@ https://code.vthanhtivi.pw/getlink/tv360/yZfXnjiD9X2AMDDSVFmj5A/1699956813/99/pl
 https://iplogger.com/Kix-hd-khichtv.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man [Đẳng cấp quý ông] *
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/cliptv/D0rgQ2xusv8XBLYbfh23kQ/1699956813/man/chunklist_b5128000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://f56ba39027.vws.khanggtivi.xyz/360/9CGx7YEqZxR09m5vCbZVn8MbWvuM5gEhWiNUlx5Xx2jhSS4/42.115.92.176/chunklist.m3u8?vstv=237
 
 #EXTINF:0 tvg-id="warnertvhd" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/MSky_TV/warnertvhd.jpg", Warner TV HD [Phim Warner Brost]
 http://m3u.at/WBTV-hdm3u8
@@ -153,7 +156,8 @@ http://antm.dynu.net:14285/rtp/232.84.2.131:9582
 #EXTINF:-1 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://khanggne.github.io/logo/MSky_TV/dreamworks.jpg" , Dreamworks [Hoạt hình cho thiếu nhi]
 #EXTVLCOPT:http-user-agent=khíchivi
 http://m3u.at/Tream-Dr-khicht
-
+#EXTINF:-1 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://khanggne.github.io/logo/MSky_TV/dreamworks.jpg" , Dreamworks [Dự phòng]
+http://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/9CGx7YEqZxR09m5vCbZVn8MbWvuM5gEhWiNUlx5Xx2jhSS4/dreamworks/index.m3u8
 #EXTINF:0 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://khanggne.github.io/logo/happykids.jpg", Happy Kids [Hoạt hình và series cho thiếu nhi]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
