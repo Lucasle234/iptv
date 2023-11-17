@@ -60,8 +60,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 # --- GIẢI TRÍ --- #
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png" group-title="GIẢI TRÍ", AFN HD [Ẩm thực Châu Á] *
+http://gg.gg/HaNoiIPTV-Asian_Food_Network_HD
 #EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-http://f56ba39027.vws.khanggtivi.xyz/360/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/42.119.80.121/chunklist.m3u8?vstv=15
+#http://f56ba39027.vws.khanggtivi.xyz/360/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/42.119.80.121/chunklist.m3u8?vstv=15
 
 #EXTINF:-1 tvg-id="dmax" group-title="Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/27/3wp3wqkr_livetv-thumb_296_168.webp", DMAX HD [Phong cách nam giới] *
 #EXTVLCOPT:http-user-agent=KhanggTivi
@@ -72,8 +73,9 @@ http://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/cCQE68fPYamglJw-AEa2YfOFJ0
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 
 #EXTINF:0 tvg-id="hgtv" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png" group-title="GIẢI TRÍ", HGTV HD [Nhà cửa] *
+http://gg.gg/HaNoiIPTV-HGTV_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://f56ba39027.vws.khanggtivi.xyz/360/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/42.119.80.121/chunklist.m3u8?vstv=99
+#http://f56ba39027.vws.khanggtivi.xyz/360/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/42.119.80.121/chunklist.m3u8?vstv=99
 
 #EXTINF:-1 tvg-id="kix" group-title="GIẢI TRÍ" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kix_16564931853.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", KIX HD [Giải trí Hàn Quốc]
 #EXTVLCOPT: http-user-agent = KhichTivi
