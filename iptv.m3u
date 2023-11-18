@@ -85,7 +85,8 @@ https://iplogger.com/Kix-hd-khichtv.m3u8
 http://f56ba39027.vws.khanggtivi.xyz/360/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/42.115.92.176/chunklist.m3u8?vstv=237
 
 #EXTINF:0 tvg-id="warnertvhd" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/MSky_TV/warnertvhd.jpg", Warner TV HD [Phim Warner Brost]
-http://m3u.at/WBTV-hdm3u8
+http://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/warnertv/index.m3u8
+
 #EXTINF:-1 tvg-id="tlchd" group-title="GIẢI TRÍ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/h1y22fci_tlc_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", TLC HD [Du lịch khám phá] *
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/quct/tlchd/master_dash.m3u8
