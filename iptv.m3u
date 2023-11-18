@@ -12,17 +12,14 @@
 # --- K+ --- #
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE FHD [Điện ảnh]
 http://m3u.at/Kcine-hd
-#https://iplogger.com/CINEB4TV
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION FHD [Hành động]
-https://iplogger.com/LIFEB4TV
+http://m3u.at/KLife-hd
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 FHD [Thể thao]
-http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8?token=444862bf30916df6e63b47c22c591948bdeec911-edbfa7fef971b18462be1f6c40e0842b-1700239343-1700228543
-#https://iplogger.com/C1B4TV
+http://m3u.at/Mytvk-sport1-hd
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 FHD [Thể thao]
-
+http://m3u.at/mytvk-sport2
 #EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS FHD [Thiếu nhi]
-
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE [Trực tiếp]
+http://m3u.at/Kkids23-fhd
 
 
 
