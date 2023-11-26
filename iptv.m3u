@@ -29,6 +29,22 @@ http://giaima.vthanhtivi.pw/K_KIDS/index.m3u8?token=d02d6a13ba2ff7a0e9fbf704e75d
 http://giaima.vthanhtivi.pw/K_LIVE_1/index.m3u8?token=31de7a6caf6ec6bf2da3d44f2384f4e6615fee11-543f98819934c5cf225ba41b06eb7722-1701005842-1700995042
 
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 HD [Thể thao]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://m3u.at/Mytvk-sport1-hd?index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 HD [Thể thao]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://m3u.at/Mytvk-sport2?hd-index.m3u8
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png", K+ CINE HD [Điện ảnh]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://m3u.at/mytvk-cine?khichtv.m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ ACTION HD [Phim Hành Động]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://m3u.at/Mytvklife?khichtv.m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/YcrwJw4/logo-k-kids-hd-khich-plus.jpg", K+ KIDS HD [Thiếu nhi]
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://m3u.at/Khich-plus-KIDS?index.m3u8
+
 
 # --- KHÁM PHÁ --- #
 #EXTINF:-1 tvg-id="animalhd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/vop9bsxi_animal-planet_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", Animal Planet HD [Thiên nhiên hoang dã]
@@ -93,7 +109,7 @@ https://iplogger.com/Kix-hd-khichtv.m3u8
 http://f56ba39027.vws.khanggtivi.xyz/360/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/42.115.92.176/chunklist.m3u8?vstv=237
 
 #EXTINF:0 tvg-id="warnertvhd" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/MSky_TV/warnertvhd.jpg", Warner TV HD [Phim Warner Brost]
-http://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/warnertv/index.m3u8
+http://m3u.at/WBTV-hdm3u8?khichtv-index.m3u8
 
 #EXTINF:-1 tvg-id="tlchd" group-title="GIẢI TRÍ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/h1y22fci_tlc_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", TLC HD [Du lịch khám phá] *
 #EXTVLCOPT:http-user-agent=KhanggTivi
@@ -198,4 +214,5 @@ https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="THỜI TRANG", World Fashion Channel [Thời trang]
 http://live-3.otcnet.ru/wfcint/index.m3u8
+
 
