@@ -11,15 +11,22 @@
 
 # --- K+ --- #
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE FHD [Điện ảnh]
-http://m3u.at/Kcine-hd
+#http://m3u.at/Kcine-hd
+http://giaima.vthanhtivi.pw/K_CINE/index.m3u8?token=94315bc47e0f285210fafd081723eab5b1fef342-970c76401adfd2f5a487e8936af320f8-1701005842-1700995042
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION FHD [Hành động]
-http://m3u.at/KLife-hd
+#http://m3u.at/KLife-hd
+http://giaima.vthanhtivi.pw/K_ACTION/index.m3u8?token=70eab8b0eeaf2cd083945d1b0f82066b1f3c6039-4b93690ef97babe47aafa23ebcc9f926-1701005842-1700995042
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 FHD [Thể thao]
-http://m3u.at/Mytvk-sport1-hd
+#http://m3u.at/Mytvk-sport1-hd
+http://giaima.vthanhtivi.pw/K_SPORT1/index.m3u8?token=f3bb41d7cb1880a9041913ede8c1dd6b512cf778-7eb6248d4a4471ab81ffe5b1bbcd88b4-1701005842-1700995042
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 FHD [Thể thao]
-http://m3u.at/mytvk-sport2
+#http://m3u.at/mytvk-sport2
+http://giaima.vthanhtivi.pw/K_SPORT2/index.m3u8?token=9d356ea713e585fde82ad10b3a96f687c2a850f1-dfd415f07d3286ae89f0c8a2cf2d3640-1701005842-1700995042
 #EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS FHD [Thiếu nhi]
-http://m3u.at/Kkids23-fhd
+#http://m3u.at/Kkids23-fhd
+http://giaima.vthanhtivi.pw/K_KIDS/index.m3u8?token=d02d6a13ba2ff7a0e9fbf704e75d2065ab058bf6-f877750c0d7de0b4a917bd3309cdc7a5-1701005842-1700995042
+#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
+http://giaima.vthanhtivi.pw/K_LIVE_1/index.m3u8?token=31de7a6caf6ec6bf2da3d44f2384f4e6615fee11-543f98819934c5cf225ba41b06eb7722-1701005842-1700995042
 
 
 
