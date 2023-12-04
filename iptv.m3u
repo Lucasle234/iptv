@@ -68,7 +68,7 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv15/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV - Thể Thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD [Thể thao] (âm thanh tiếng Việt)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv17/playlist.m3u8
-#EXTINF: -1 tvg-id = "sctv22hd" group-title = "SCTV - Thể thao" tvg-logo = "https://cdn.hqth.me/logo/thumbs/84.png", SCTV22 HD [Thể thao] (âm thanh tiếng Việt)
+#EXTINF: -1 tvg-id = "sctv22hd" group-title="SCTV - Thể Thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22 HD [Thể thao] (âm thanh tiếng Việt)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv22/playlist.m3u8
 
@@ -84,7 +84,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="KHÁM PHÁ" tvg-logo="https://khanggne.github.io/logo/planetearthhd.jpg", Planet Earth [Khám phá chuyên biệt] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
-#EXTINF: -1 tvg-id = "sctv12hd" group-title = "KHÁM PHÁ" tvg-logo = "https://cdn.hqth.me/logo/thumbs/76.png", SCTV12 HD [Du lịch khám phá] (âm thanh tiếng Việt)
+#EXTINF: -1 tvg-id = "sctv12hd" group-title="KHÁM PHÁ" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD [Du lịch khám phá] (âm thanh tiếng Việt)
 #EXTVLCOPT: http-user-agent = VKhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv12/index.m3u8?|Referer=https://sctvonline.vn/
@@ -145,7 +145,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 http://m3u.at/in-the-boxkhic
-#EXTINF: -1 tvg-id = "sctv19hd" group-title = "PHIM ẢNH" tvg-logo = "https://cdn.hqth.me/logo/thumbs/73.png", SCTV9 [Phim Hồng Kông] (âm thanh tiếng Việt)
+#EXTINF: -1 tvg-id = "sctv19hd" group-title="PHIM ẢNH" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 [Phim Hồng Kông] (âm thanh tiếng Việt)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv9/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="PHIM ẢNH" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam [Phim Hồng Kông] (lồng tiếng Việt)
