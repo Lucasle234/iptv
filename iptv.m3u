@@ -9,7 +9,7 @@
 #Token K+: b0bfe78ff95c1ca21959569be5f6235a55ca820d170c92f92534f975ac8938d1
 #Token TV360: 6NxLUoVlpsc6AMNa5BF1diwNVL5pBm3OgdjACxoW5etpxfM
 
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION (âm thanh gốc/phụ đề tiếng Việt)
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://m3u.at/Mytvklife?khichtv.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE (âm thanh gốc/phụ đề tiếng Việt)
