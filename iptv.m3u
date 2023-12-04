@@ -38,25 +38,38 @@ http://stream.khanggtivi.xyz:1234/stream/ksport2/master.m3u8?u=khanggtivi&p=b0bf
 http://stream.khanggtivi.xyz:1234/stream/kkids/master.m3u8?u=khanggtivi&p=b0bfe78ff95c1ca21959569be5f6235a55ca820d170c92f92534f975ac8938d1
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD [Phim Hành Động] (đa âm thanh/phụ đề tiếng Việt)
-http://cdn.vthanhtivi.pw/K_ACTION/index.m3u8
+http://edge.vthanhtivi.pw/K_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD [Điện Ảnh] (đa âm thanh/phụ đề tiếng Việt)
-http://cdn.vthanhtivi.pw/K_CINE/index.m3u8
+http://edge.vthanhtivi.pw/K_CINE/index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/89.png", K+ KIDS HD [Thiếu nhi] (đa âm thanh/phụ đề tiếng Việt)
-http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8
+http://edge.vthanhtivi.pw/K_KIDS/index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/87.png", K+ SPORT1 HD [Thể Thao 1] (âm thanh tiếng Việt)
-http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8
+http://edge.vthanhtivi.pw/K_SPORT1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/88.png", K+ SPORT2 HD [Thể thao 2] (âm thanh tiếng Việt)
-http://cdn.vthanhtivi.pw/K_SPORT2/index.m3u8
+http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1 [Trực tiếp sự kiện thể thao] (âm thanh tiếng Việt)
-http://cdn.vthanhtivi.pw/K_LIVE1/index.m3u8
+http://edge.vthanhtivi.pw/K_LIVE1/index.m3u8
 
 # --- THỂ THAO --- #
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab - Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD [Bóng đá] (âm thanh tiếng Việt)
+http://edge.vthanhtivi.pw/ON_Football/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab - Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD [Thể thao] (âm thanh tiếng Việt)
+http://edge.vthanhtivi.pw/ON_Sports/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab - Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+ [Thể thao/Phim] (âm thanh tiếng Việt)
+http://edge.vthanhtivi.pw/ON_Sports_Plus/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab - Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News [Tin tức thể thao] (âm thanh tiếng Việt)
+http://edge.vthanhtivi.pw/ON_Sports_News/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="Thể thao", REDBULL TV [Thể thao mạo hiểm] (âm thanh tiếng Anh)
 https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
-#EXTINF: -1 tvg-id = "sctv22hd" group-title = "Thể thao" tvg-logo = "https://i.ibb.co/Vpgwgb0/SCTV22.png ", SCTV22 HD [Thể thao] (âm thanh tiếng Việt)
-#EXTVLCOPT: http-user-agent = KhichTivi
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV - Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD [Thể thao] (âm thanh tiếng Việt)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8?khichtv|Referer=http://sctvonline.vn/
+https://code.vthanhtivi.pw/getlink/sctvonline/sctv15/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV - Thể Thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD [Thể thao] (âm thanh tiếng Việt)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://code.vthanhtivi.pw/getlink/sctvonline/sctv17/playlist.m3u8
+#EXTINF: -1 tvg-id = "sctv22hd" group-title = "SCTV - Thể thao" tvg-logo = "https://i.ibb.co/Vpgwgb0/SCTV22.png ", SCTV22 HD [Thể thao] (âm thanh tiếng Việt)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://code.vthanhtivi.pw/getlink/sctvonline/sctv22/playlist.m3u8
 
 # --- KHÁM PHÁ --- #
 #EXTINF:-1 tvg-id="animalhd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/vop9bsxi_animal-planet_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", Animal Planet HD [Thiên nhiên hoang dã] (âm thanh tiếng Việt)
