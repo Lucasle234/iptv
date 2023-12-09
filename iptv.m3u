@@ -139,7 +139,7 @@ http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Truyền hình Hàn Quốc" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", KBS World HD [Giải trí gia đình Hàn Quốc] (âm thanh tiếng Hàn)
 https://iplogger.org/kbs.link?id=kbs-world
-#EXTINF:-1 group-title="Truyền hình Hàn Quốc", 韩国-NBS [Nông nghiệp Hàn Quốc] (âm thanh tiếng Hàn)
+#EXTINF:-1 group-title="Truyền hình Hàn Quốc" tvg-logo="https://vdo.mwit.ac.th/StreamLive/uploads/tv_image/nbs-korea-agricultural.jpeg", 韩国-NBS [Nông nghiệp Hàn Quốc] (âm thanh tiếng Hàn)
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
 #EXTINF:-1  group-title="Truyền hình Triều Tiên" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Trung%20%C6%B0%C6%A1ng%20Tri%E1%BB%81u%20Ti%C3%AAn.png", KCTV [TH TRUNG ƯƠNG TRIỀU TIÊN] (âm thanh Triều Tiên)
