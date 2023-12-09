@@ -17,12 +17,15 @@ http://stream2.khanggtivi.xyz:1234/stream/kplus/klife/master.m3u8?u=khangtv&p=b0
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/24/1imcqcvu_bannerb62f86f39fd7b8fbc86ebe06420b8642_296_168.webp", K+ CINE HD [Điện ảnh] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream2.khanggtivi.xyz:1234/stream/kplus/kcine/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/89.png", K+ KIDS HD [Thiếu nhi] (âm thanh tiếng Việt)
+http://sub-livecdn.khanggtivi.xyz/live/loveyou/kkids_vhls.smil/index.fmp4.m3u8?token=Tm9uZXx2dHYxaGRfdmhscy5zbWlsfHZucHR8MTcwMjEyODkxM3wxNC4xOTEuMTEuMTl8NGNkOGM0YjIwZjg1YjI0ZmE0MmZhOWI1NzA2NDVjNmU==
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+ SPORT1 HD [Thể Thao] (âm thanh tiếng Việt)
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus1/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+ SPORT2 HD [Thể Thao] (âm thanh tiếng Việt)
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus2/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION FHD [Phim Hành Động] (đa âm thanh/phụ đề tiếng Việt)
 http://edge.vthanhtivi.pw/K_ACTION/index.m3u8
