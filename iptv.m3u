@@ -62,6 +62,8 @@ http://edge.vthanhtivi.pw/ON_Sports_Plus/index.m3u8
 http://edge.vthanhtivi.pw/ON_Sports_News/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="Thể thao", REDBULL TV [Thể thao mạo hiểm] (âm thanh tiếng Anh)
 https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO Rugby Pass" tvg-logo="" group-title="Thể thao", ASTRO Rugby Pass [Bóng bầu dục] (âm thanh tiếng Anh)
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71108
 
 # --- KHÁM PHÁ --- #
 #EXTINF:-1 tvg-id="animalhd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/4zwxanz9_ngang6e39dff1f114e3fe857d2dddf3cc9120_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", Animal Planet HD [Thiên nhiên hoang dã] (âm thanh tiếng Việt)
@@ -148,13 +150,27 @@ http://antm.dynu.net:14285/rtp/232.84.2.131:9582
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 
-# --- TIN TỨC --- #
+# --- Quốc tế --- #
+
+#EXTINF:-1 tvg-id="" group-title="Truyền hình Nhật Bản" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp", NHK WORLD JAPAN HD [Truyền hình Nhật Bản] (âm thanh tiếng Anh)
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjjQTgY.png" group-title="Truyền hình Nhật Bản", NHK World Premium [Truyền hình Nhật Bản] (âm thanh tiếng Nhật)
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="Truyền hình Nhật Bản" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi [Truyền hình Nhật Bản] (âm thanh tiếng Nhật)
+http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
+
 #EXTINF:-1 tvg-id="arirang" group-title="Truyền hình Hàn Quốc" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang [Truyền hình Hàn Quốc] (âm thanh tiếng Hàn)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Truyền hình Hàn Quốc" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", KBS World HD [Giải trí gia đình Hàn Quốc] (âm thanh tiếng Hàn)
 https://iplogger.org/kbs.link?id=kbs-world
-#EXTINF:-1 group-title="测试频道",韩国-NBS [Nông nghiệp Hàn Quốc] (âm thanh tiếng Hàn)
+#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="Truyền hình Hàn Quốc", ONE HD [Giải trí Hàn Quốc] (âm thanh tiếng Hàn)
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71053
+#EXTINF:-1 group-title="Truyền hình Hàn Quốc", 韩国-NBS [Nông nghiệp Hàn Quốc] (âm thanh tiếng Hàn)
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+
+#EXTINF:-1  group-title="Truyền hình Triều Tiên" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Trung%20%C6%B0%C6%A1ng%20Tri%E1%BB%81u%20Ti%C3%AAn.png", KCTV [TH TRUNG ƯƠNG TRIỀU TIÊN] (âm thanh Triều Tiên)
+https://tv.nknews.org/tvdash/stream.mpd
+
 #EXTINF:-1 tvg-id="dw" group-title="Truyền hình Đức" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/9f3p4fk0_dw_296_168.webp", DW HD [Truyền hình Đức] (âm thanh tiếng Anh/phụ đề tiếng Việt [Theo giờ])
 https://qnetlive.nethubtv.vn/live/dw.smil/playlist.m3u8
 
@@ -164,16 +180,6 @@ https://qnetlive.nethubtv.vn/live/france24hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Truyền hình Pháp" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/14dmiww2_tv5monde_296_168.webp", TV5MONDE HD [Truyền hình Pháp] (âm thanh tiếng Pháp/phụ đề tiếng Việt [Theo giờ])
 https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" group-title="Truyền hình Nhật Bản" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp", NHK WORLD JAPAN HD [Truyền hình Nhật Bản] (âm thanh tiếng Anh)
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjjQTgY.png" group-title="Truyền hình Nhật Bản", NHK World Premium [Truyền hình Nhật Bản] (âm thanh tiếng Nhật)
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
-
-
-
 # --- THỜI TRANG --- #
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle", Fashion TV [Thời trang] (âm thanh tiếng Anh)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -182,5 +188,4 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="THỜI TRANG", World Fashion Channel [Thời trang] (âm thanh tiếng Anh)
 http://live-3.otcnet.ru/wfcint/index.m3u8
 
-#EXTINF:-1  group-title="Truyền hình Triều Tiên" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Trung%20%C6%B0%C6%A1ng%20Tri%E1%BB%81u%20Ti%C3%AAn.png", KCTV - TH TRUNG ƯƠNG TRIỀU TIÊN (âm thanh Triều Tiên)
-https://tv.nknews.org/tvdash/stream.mpd
+
