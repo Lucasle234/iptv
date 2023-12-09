@@ -9,21 +9,7 @@
 #Token K+: b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 #Token TV360: 6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/
 
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION (âm thanh gốc/phụ đề tiếng Việt)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://m3u.at/Mytvklife?khichtv.m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/24/1imcqcvu_bannerb62f86f39fd7b8fbc86ebe06420b8642_296_168.webp", K+ CINE (âm thanh gốc/phụ đề tiếng Việt)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://m3u.at/mytvk-cine?khichtv.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp", K+ KIDS (âm thanh gốc/phụ đề tiếng Việt)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://m3u.at/Khich-plus-KIDS?index.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+ SPORT1 (âm thanh tiếng Việt)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://m3u.at/Mytvk-sport1-hd?index.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+ SPORT2 (âm thanh tiếng Việt)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://m3u.at/Mytvk-sport2?hd-index.m3u8
+
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION HD [Phim/Thể Thao] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=KhanggTivi
@@ -52,18 +38,8 @@ http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
 http://edge.vthanhtivi.pw/K_LIVE1/index.m3u8
 
 # --- THỂ THAO --- #
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab - Thể thao" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/bw7ci44a_banner071ad01788e0a70ed354f20478d736c6_296_168.webp", ON Football HD [Bóng đá] (âm thanh tiếng Việt)
-http://edge.vthanhtivi.pw/ON_Football/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab - Thể thao" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/mrmqr3c2_bannerc74aaa6b2afc33ddc5cf0d24682f4345_296_168.webp", ON Sports HD [Thể thao] (âm thanh tiếng Việt)
-http://edge.vthanhtivi.pw/ON_Sports/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab - Thể thao" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/9vy0yqgr_bannerad8f69687cbcd477ce1cc4075e877f26_296_168.webp", ON Sports+ [Thể thao/Phim] (âm thanh tiếng Việt)
-http://edge.vthanhtivi.pw/ON_Sports_Plus/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab - Thể thao" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/8z4jnq7i_banner-dai-truyen-hinh49b0da0e2ff528ff74b3fcb122348a1c_296_168.webp", ON Sports News [Tin tức thể thao] (âm thanh tiếng Việt)
-http://edge.vthanhtivi.pw/ON_Sports_News/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="Thể thao", REDBULL TV [Thể thao mạo hiểm] (âm thanh tiếng Anh)
 https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO Rugby Pass" tvg-logo="" group-title="Thể thao", ASTRO Rugby Pass [Bóng bầu dục] (âm thanh tiếng Anh)
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71108
 
 # --- KHÁM PHÁ --- #
 #EXTINF:-1 tvg-id="animalhd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/4zwxanz9_ngang6e39dff1f114e3fe857d2dddf3cc9120_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", Animal Planet HD [Thiên nhiên hoang dã] (âm thanh tiếng Việt)
@@ -163,8 +139,6 @@ http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Truyền hình Hàn Quốc" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", KBS World HD [Giải trí gia đình Hàn Quốc] (âm thanh tiếng Hàn)
 https://iplogger.org/kbs.link?id=kbs-world
-#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="Truyền hình Hàn Quốc", ONE HD [Giải trí Hàn Quốc] (âm thanh tiếng Hàn)
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71053
 #EXTINF:-1 group-title="Truyền hình Hàn Quốc", 韩国-NBS [Nông nghiệp Hàn Quốc] (âm thanh tiếng Hàn)
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
