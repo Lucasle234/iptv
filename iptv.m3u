@@ -6,26 +6,7 @@
 # --- Quốc tế & K+ --- #
 
 #Thông tin hệ thống
-#Token K+: b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
-#Token TV360: IYNYOxGnutzqqlLzyfPdDSy3zhjfMR1thTFmTI6RUvpZB5E/1702128820/
-
-
-
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION HD [Phim/Thể Thao] (âm thanh gốc/phụ đề tiếng Việt)
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://stream2.khanggtivi.xyz:1234/stream/kplus/klife/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/24/1imcqcvu_bannerb62f86f39fd7b8fbc86ebe06420b8642_296_168.webp", K+ CINE HD [Điện ảnh] (âm thanh gốc/phụ đề tiếng Việt)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://stream2.khanggtivi.xyz:1234/stream/kplus/kcine/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/89.png", K+ KIDS HD [Thiếu nhi] (âm thanh tiếng Việt)
-http://sub-livecdn.khanggtivi.xyz/live/loveyou/kkids_vhls.smil/index.fmp4.m3u8?token=Tm9uZXx2dHYxaGRfdmhscy5zbWlsfHZucHR8MTcwMjEyODkxM3wxNC4xOTEuMTEuMTl8NGNkOGM0YjIwZjg1YjI0ZmE0MmZhOWI1NzA2NDVjNmU==
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+ SPORT1 HD [Thể Thao] (âm thanh tiếng Việt)
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus1/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+ SPORT2 HD [Thể Thao] (âm thanh tiếng Việt)
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus2/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
-
+#Token TV360: ILr91NU8xKFgZnk_ywWSu5gPiekTXbYQYJGZ1oyF-hAVg_V4/1702628741/
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION FHD [Phim Hành Động] (đa âm thanh/phụ đề tiếng Việt)
 http://edge.vthanhtivi.pw/K_ACTION/index.m3u8
@@ -37,8 +18,6 @@ http://edge.vthanhtivi.pw/K_KIDS/index.m3u8
 http://edge.vthanhtivi.pw/K_SPORT1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+ SPORT2 FHD [Thể thao 2] (âm thanh tiếng Việt)
 http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
-#EXTINF:-1 tvg-id="klive1" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1 FHD [Trực tiếp sự kiện thể thao] (âm thanh tiếng Việt)
-http://edge.vthanhtivi.pw/K_LIVE1/index.m3u8
 
 # --- THỂ THAO --- #
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="Thể thao", REDBULL TV [Thể thao mạo hiểm] (âm thanh tiếng Anh)
@@ -58,18 +37,18 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="KHÁM PHÁ" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_outdoor-channel_165649323545.png", Outdoor Channel HD [Khám phá] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/IYNYOxGnutzqqlLzyfPdDSy3zhjfMR1thTFmTI6RUvpZB5E/1702128820/chunklist.m3u8?vstv=216
+https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/ILr91NU8xKFgZnk_ywWSu5gPiekTXbYQYJGZ1oyF-hAVg_V4/1702628741/chunklist.m3u8?vstv=216
 
 # --- GIẢI TRÍ --- #
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/263.png" group-title="Giải trí", AFN HD [Ẩm thực châu Á] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/IYNYOxGnutzqqlLzyfPdDSy3zhjfMR1thTFmTI6RUvpZB5E/1702128820/chunklist.m3u8?vstv=215
+https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/ILr91NU8xKFgZnk_ywWSu5gPiekTXbYQYJGZ1oyF-hAVg_V4/1702628741/chunklist.m3u8?vstv=215
 #EXTINF:0 tvg-id="drfithd" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/drfithd.jpg", DR.Fit [Sức khỏe chuyên biệt] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:0 tvg-id="hgtv" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/234.png" group-title="Giải trí", HGTV HD [Nhà cửa] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/IYNYOxGnutzqqlLzyfPdDSy3zhjfMR1thTFmTI6RUvpZB5E/1702128820/chunklist.m3u8?vstv=99
+https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/ILr91NU8xKFgZnk_ywWSu5gPiekTXbYQYJGZ1oyF-hAVg_V4/1702628741/chunklist.m3u8?vstv=99
 #EXTINF: -1 tvg-id="kix" group-title="GIẢI TRÍ" tvg-logo="https://i.ibb.co/QMq7ZLy/khich-Tivi-Online-kix.jpg", KIX HD [Giải trí Hàn Quốc] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=khích TiVi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -94,15 +73,14 @@ http://m3u.at/BOX-Hits
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp" group-title="PHIM ẢNH", CINEMAX HD [Phim truyện hành động] (âm thanh gốc/phụ đề tiếng Việt)
-#http://vthanhtivi.pw:5000/cinemax/index.m3u8
-http://m3u.at/xtream-cinemax-
+http://vthanhtivi.pw:5000/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="PHIM ẢNH" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000076_IVP_LAND_586x330.jpg", Celestial Movies [Phim Hồng Kông] (âm thanh tiếng Trung/phụ đề tiếng Anh)
 https://code.vthanhtivi.pw/getlink/eazie/243113/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="PHIM ẢNH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/wrdry4vk_ngang9067410d2fb1ed5accb483f26c3e72b3_296_168.webp", CinemaWorld [Điện ảnh quốc tế] (âm thanh gốc/phụ đề tiếng Việt)
 http://m3u.at/cinemaworld
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/12/m4oqw0d9_hbongagn4f6616f355267f3c46c8ffa59075e7cd_296_168.webp" group-title="PHIM ẢNH", HBO HD [Phim bom tấn Hollywood] (âm thanh gốc/phụ đề tiếng Việt)
-#http://vthanhtivi.pw:5000/hbo/index.m3u8
-http://m3u.at/xtream-hbo-hd
+#EXTVLCOPT:http-user-agent=KhanggTivi
+http://vthanhtivi.pw:5000/hbo/index.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="PHIM ẢNH" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS [Phim series] (âm thanh gốc/phụ đề tiếng Việt)
 https://wintv.fun/360/107/index.m3u8
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="PHIM ẢNH" tvg-logo="https://khanggne.github.io/logo/hollywoodclassics.jpg", Hollywood Classics [Phim kinh điển Hollywood] (âm thanh gốc/phụ đề tiếng Việt)
