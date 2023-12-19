@@ -9,15 +9,20 @@
 #Token TV360: ILr91NU8xKFgZnk_ywWSu5gPiekTXbYQYJGZ1oyF-hAVg_V4/1702628741/
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION FHD [Phim Hành Động] (đa âm thanh/phụ đề tiếng Việt)
-http://edge.vthanhtivi.pw/K_ACTION/index.m3u8
+#http://edge.vthanhtivi.pw/K_ACTION/index.m3u8
+http://m3u.at/Stream-k4?khich-plus.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/24/1imcqcvu_bannerb62f86f39fd7b8fbc86ebe06420b8642_296_168.webp", K+ CINE FHD [Điện Ảnh] (đa âm thanh/phụ đề tiếng Việt)
-http://edge.vthanhtivi.pw/K_CINE/index.m3u8
+#http://edge.vthanhtivi.pw/K_CINE/index.m3u8
+http://m3u.at/Stream-k3?khich-plus.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp", K+ KIDS FHD [Thiếu nhi] (đa âm thanh/phụ đề tiếng Việt)
-http://edge.vthanhtivi.pw/K_KIDS/index.m3u8
+#http://edge.vthanhtivi.pw/K_KIDS/index.m3u8
+http://m3u.at/Stream-k5?khich-plus.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+ SPORT1 FHD [Thể Thao 1] (âm thanh tiếng Việt)
-http://edge.vthanhtivi.pw/K_SPORT1/index.m3u8
+#http://edge.vthanhtivi.pw/K_SPORT1/index.m3u8
+http://m3u.at/Stream-k1?khich-plus.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+ SPORT2 FHD [Thể thao 2] (âm thanh tiếng Việt)
-http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
+#http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
+http://m3u.at/Stream-k2?khich-plus.m3u8
 
 # --- THỂ THAO --- #
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="Thể thao", REDBULL TV [Thể thao mạo hiểm] (âm thanh tiếng Anh)
@@ -62,7 +67,7 @@ http://m3u.at/mytvkix-khich?index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/6NxLUoVlpsc6AMNa5BF1diwNVL5pBm3OgdjACxoW5etpxfM/chunklist.m3u8?vstv=237
 #EXTINF:0 tvg-id="warnertvhd" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/MSky_TV/warnertvhd.jpg", Warner TV HD [Phim Warner Brost] (âm thanh gốc/phụ đề tiếng Việt)
-http://m3u.at/WBTV-hdm3u8?khichtv-index.m3u8
+http://m3u.at/Lives-wbtv-24?khichtv-index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/woman.jpg", Woman [Phụ nữ chuyên biệt] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
