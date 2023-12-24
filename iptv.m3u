@@ -6,7 +6,7 @@
 # --- Quốc tế & K+ --- #
 
 #Thông tin hệ thống
-#Token TV360: ILr91NU8xKFgZnk_ywWSu5gPiekTXbYQYJGZ1oyF-hAVg_V4/1702628741/
+#Token TV360: QKanYCiv8QPURyAQBUfGsKlgjmtv-LHT5pcmmDX7YB-WLCA/1703327745/
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION FHD [Phim Hành Động] (đa âm thanh/phụ đề tiếng Việt)
 #http://edge.vthanhtivi.pw/K_ACTION/index.m3u8
@@ -44,12 +44,12 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="KHÁM PHÁ" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_outdoor-channel_165649323545.png", Outdoor Channel HD [Khám phá] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/ILr91NU8xKFgZnk_ywWSu5gPiekTXbYQYJGZ1oyF-hAVg_V4/1702628741/chunklist.m3u8?vstv=216
+https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/QKanYCiv8QPURyAQBUfGsKlgjmtv-LHT5pcmmDX7YB-WLCA/1703327745/chunklist.m3u8?vstv=216
 
 # --- GIẢI TRÍ --- #
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/263.png" group-title="Giải trí", AFN HD [Ẩm thực châu Á] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/ILr91NU8xKFgZnk_ywWSu5gPiekTXbYQYJGZ1oyF-hAVg_V4/1702628741/chunklist.m3u8?vstv=215
+https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/QKanYCiv8QPURyAQBUfGsKlgjmtv-LHT5pcmmDX7YB-WLCA/1703327745/chunklist.m3u8?vstv=215
 #EXTINF:-1 tvg-id="dmax" group-title="GIẢI TRÍ" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX [Phong cách quý ông] (âm thanh gốc/phụ đề tiếng Việt)
 http://vthanhtivi.pw:5000/dmax/index.m3u8
 #EXTINF:0 tvg-id="drfithd" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/drfithd.jpg", DR.Fit [Sức khỏe chuyên biệt] (âm thanh gốc/phụ đề tiếng Việt)
@@ -57,7 +57,7 @@ http://vthanhtivi.pw:5000/dmax/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:0 tvg-id="hgtv" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/234.png" group-title="Giải trí", HGTV HD [Nhà cửa] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/ILr91NU8xKFgZnk_ywWSu5gPiekTXbYQYJGZ1oyF-hAVg_V4/1702628741/chunklist.m3u8?vstv=99
+https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/QKanYCiv8QPURyAQBUfGsKlgjmtv-LHT5pcmmDX7YB-WLCA/1703327745/chunklist.m3u8?vstv=99
 #EXTINF: -1 tvg-id="kix" group-title="GIẢI TRÍ" tvg-logo="https://i.ibb.co/QMq7ZLy/khich-Tivi-Online-kix.jpg", KIX HD [Giải trí Hàn Quốc] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=khích TiVi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
