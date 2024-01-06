@@ -133,6 +133,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://iplogger.org/kbs.link?id=kbs-world
 #EXTINF:-1 group-title="Truyền hình Hàn Quốc" tvg-logo="https://vdo.mwit.ac.th/StreamLive/uploads/tv_image/nbs-korea-agricultural.jpeg", 韩国-NBS [Nông nghiệp Hàn Quốc] (âm thanh tiếng Hàn)
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="hits" group-title="Truyền hình Hàn Quốc" tvg-logo="https://i.imgur.com/xdBM55Q.png",TVN
+http://210.210.155.37/dr9445/h/h20/index.m3u8
 
 #EXTINF:-1  group-title="Truyền hình Triều Tiên" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Trung%20%C6%B0%C6%A1ng%20Tri%E1%BB%81u%20Ti%C3%AAn.png", KCTV [TH TRUNG ƯƠNG TRIỀU TIÊN] (âm thanh Triều Tiên)
 https://tv.nknews.org/tvdash/stream.mpd
