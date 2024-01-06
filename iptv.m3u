@@ -131,8 +131,12 @@ http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Truyền hình Hàn Quốc" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", KBS World HD [Giải trí gia đình Hàn Quốc] (âm thanh tiếng Hàn)
 https://iplogger.org/kbs.link?id=kbs-world
-#EXTINF:-1 group-title="Truyền hình Hàn Quốc" tvg-logo="https://vdo.mwit.ac.th/StreamLive/uploads/tv_image/nbs-korea-agricultural.jpeg", 韩国-NBS [Nông nghiệp Hàn Quốc] (âm thanh tiếng Hàn)
+#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="" group-title="Truyền hình Hàn Quốc", KBS World HD [Giải trí gia đình Hàn Quốc] (âm thanh tiếng Hàn)
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71052
+#EXTINF:-1 tvg-id="kbsworld" group-title="Truyền hình Hàn Quốc" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", KBS World HD [Giải trí gia đình Hàn Quốc] (âm thanh tiếng Hàn)
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="one" tvg-name="MY081:ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Truyền hình Hàn Quốc", ONE HD [Giải trí Hàn Quốc]
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71053
 #EXTINF:-1 tvg-id="tvn" group-title="Truyền hình Hàn Quốc" tvg-logo="https://i.imgur.com/xdBM55Q.png", TVN [Giải trí Hàn Quốc]
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 
