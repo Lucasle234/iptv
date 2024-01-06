@@ -6,7 +6,7 @@
 # --- Quốc tế & K+ --- #
 
 #Thông tin hệ thống
-#Token TV360: QKanYCiv8QPURyAQBUfGsKlgjmtv-LHT5pcmmDX7YB-WLCA/1703327745/
+#Token TV360: u1CPHaCkxvvN_hLjlyoNLlhyz1sLAhTp0UxZz09NjP15Rfs
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION FHD [Phim Hành Động] (đa âm thanh/phụ đề tiếng Việt)
 #http://edge.vthanhtivi.pw/K_ACTION/index.m3u8
@@ -43,13 +43,13 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="KHÁM PHÁ" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_outdoor-channel_165649323545.png", Outdoor Channel HD [Khám phá] (âm thanh gốc/phụ đề tiếng Việt)
-#EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/QKanYCiv8QPURyAQBUfGsKlgjmtv-LHT5pcmmDX7YB-WLCA/1703327745/chunklist.m3u8?vstv=216
+#EXTVLCOPT:http-user-agent=KhanggTivi
+https://ott3.khanggtivi.xyz/live/channel/tv360/u1CPHaCkxvvN_hLjlyoNLlhyz1sLAhTp0UxZz09NjP15Rfs/1704409200/chunklist.m3u8?vstv=216
 
 # --- GIẢI TRÍ --- #
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/263.png" group-title="Giải trí", AFN HD [Ẩm thực châu Á] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/QKanYCiv8QPURyAQBUfGsKlgjmtv-LHT5pcmmDX7YB-WLCA/1703327745/chunklist.m3u8?vstv=215
+https://ott3.khanggtivi.xyz/live/channel/tv360/u1CPHaCkxvvN_hLjlyoNLlhyz1sLAhTp0UxZz09NjP15Rfs/1704409200/chunklist.m3u8?vstv=215
 #EXTINF:-1 tvg-id="dmax" group-title="GIẢI TRÍ" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX [Phong cách quý ông] (âm thanh gốc/phụ đề tiếng Việt)
 http://vthanhtivi.pw:5000/dmax/index.m3u8
 #EXTINF:0 tvg-id="drfithd" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/drfithd.jpg", DR.Fit [Sức khỏe chuyên biệt] (âm thanh gốc/phụ đề tiếng Việt)
@@ -57,15 +57,11 @@ http://vthanhtivi.pw:5000/dmax/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:0 tvg-id="hgtv" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/234.png" group-title="Giải trí", HGTV HD [Nhà cửa] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/QKanYCiv8QPURyAQBUfGsKlgjmtv-LHT5pcmmDX7YB-WLCA/1703327745/chunklist.m3u8?vstv=99
-#EXTINF: -1 tvg-id="kix" group-title="GIẢI TRÍ" tvg-logo="https://i.ibb.co/QMq7ZLy/khich-Tivi-Online-kix.jpg", KIX HD [Giải trí Hàn Quốc] (âm thanh gốc/phụ đề tiếng Việt)
-#EXTVLCOPT:http-user-agent=khích TiVi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://m3u.at/mytvkix-khich?index.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/u1CPHaCkxvvN_hLjlyoNLlhyz1sLAhTp0UxZz09NjP15Rfs/1704409200/chunklist.m3u8?vstv=99
 #EXTINF:-1 tvg-id="man" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man [Đẳng cấp quý ông] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api-v2-vthn-vnd.khanggtivi.xyz/v2/tv360/6NxLUoVlpsc6AMNa5BF1diwNVL5pBm3OgdjACxoW5etpxfM/chunklist.m3u8?vstv=237
+https://ott3.khanggtivi.xyz/live/channel/tv360/u1CPHaCkxvvN_hLjlyoNLlhyz1sLAhTp0UxZz09NjP15Rfs/1704409200/chunklist.m3u8?vstv=237
 #EXTINF:0 tvg-id="warnertvhd" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/MSky_TV/warnertvhd.jpg", Warner TV HD [Phim Warner Brost] (âm thanh gốc/phụ đề tiếng Việt)
 http://m3u.at/Lives-wbtv-24?khichtv-index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/woman.jpg", Woman [Phụ nữ chuyên biệt] (âm thanh gốc/phụ đề tiếng Việt)
@@ -133,6 +129,10 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://iplogger.org/kbs.link?id=kbs-world
 #EXTINF:-1 tvg-id="kbsworld" group-title="Truyền hình Hàn Quốc" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/e0i9vw8f_kbs-worldsc8b945c4da720f2722e7da6dc6c5b6cb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", KBS World 2 HD  [Giải trí gia đình Hàn Quốc] (âm thanh tiếng Hàn)
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71052
+#EXTINF: -1 tvg-id="kix" group-title="GIẢI TRÍ" tvg-logo="https://i.ibb.co/QMq7ZLy/khich-Tivi-Online-kix.jpg", KIX HD [Giải trí Hàn Quốc] (âm thanh gốc/phụ đề tiếng Việt)
+#EXTVLCOPT:http-user-agent=khích TiVi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://m3u.at/mytvkix-khich?index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Truyền hình Hàn Quốc" tvg-logo="https://vipotv.com/wp-content/uploads/2022/02/NBS-Korea-Agricultural-live-vipotv-korean.png", NBS Korea Agricultural [Nông nghiệp Hàn Quốc]
 https://list.iptvcat.com/my_list/s/2008d09420a90c843918806147cff0dc.m3u8
 #EXTINF:-1 tvg-id="one" tvg-name="MY081:ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Truyền hình Hàn Quốc", ONE HD [Giải trí Hàn Quốc]
