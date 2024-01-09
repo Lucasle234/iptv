@@ -27,7 +27,7 @@ http://fpt.vthanhtivi.pw/animal/index.m3u8
 http://fpt.vthanhtivi.pw/bbcearth/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/a6i678gq_ngagn_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-{start}-{offset}.m3u8", Discovery Channel HD [Khám phá] (âm thanh gốc/phụ đề tiếng Việt)
 http://fpt.vthanhtivi.pw/discovery/index.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="KHÁM PHÁ" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia [Khám phá Châu Á] (âm thanh gốc/phụ đề tiếng Việt)
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="KHÁM PHÁ" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia [Khám phá Châu Á] (âm thanh tiếng Việt)
 http://vthanhtivi.pw/discoveryasia/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="KHÁM PHÁ" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD [Lịch sử thế giới] (âm thanh gốc/phụ đề tiếng Việt)
 http://fpt.vthanhtivi.pw/history/mpegts
