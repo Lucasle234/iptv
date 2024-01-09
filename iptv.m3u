@@ -126,7 +126,8 @@ https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
 #EXTINF: -1 tvg-id="kix" group-title="GIẢI TRÍ" tvg-logo="https://i.ibb.co/QMq7ZLy/khich-Tivi-Online-kix.jpg", KIX HD [Giải trí Hàn Quốc]
 #EXTVLCOPT:http-user-agent=khích TiVi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://m3u.at/live-khich-kix
+#http://m3u.at/live-khich-kix
+http://210.210.155.37/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="" group-title="Truyền hình Hàn Quốc" tvg-logo="https://vipotv.com/wp-content/uploads/2022/02/NBS-Korea-Agricultural-live-vipotv-korean.png", NBS Korea Agricultural [Nông nghiệp Hàn Quốc]
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="one" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="Truyền hình Hàn Quốc", ONE HD [Giải trí Hàn Quốc]
@@ -157,11 +158,20 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 http://live-3.otcnet.ru/wfcint/index.m3u8
 
 # --- ÂM NHẠC --- #
-#EXTINF:-1  group-title="Âm nhạc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png" , NICK MUSIC [Âm nhạc]
+#EXTINF:-1  group-title="Âm nhạc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png", NICK MUSIC [Âm nhạc]
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 
 # --- THỂ THAO --- #
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="Thể thao", REDBULL TV [Thể thao mạo hiểm] (âm thanh tiếng Anh)
 https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Thể thao", Super Sport 1 [Thể thao] (âm thanh tiếng Anh)
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Thể thao",Super Sport 2 [Thể thao] (âm thanh tiếng Anh)
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1721
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Thể thao", Super Sport 3 [Thể thao] (âm thanh tiếng Anh)
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1720
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Thể thao", Super Sport 4 [Thể thao] (âm thanh tiếng Anh)
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1719
+#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="Thể thao", Super Sport 5 [Thể thao] (âm thanh tiếng Anh)
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1713
 
