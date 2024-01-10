@@ -165,14 +165,4 @@ http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 # --- THỂ THAO --- #
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="Thể thao", REDBULL TV [Thể thao mạo hiểm] (âm thanh tiếng Anh)
 https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Thể thao", Super Sport 1 [Thể thao] (âm thanh tiếng Anh)
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1722
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Thể thao",Super Sport 2 [Thể thao] (âm thanh tiếng Anh)
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1721
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Thể thao", Super Sport 3 [Thể thao] (âm thanh tiếng Anh)
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1720
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Thể thao", Super Sport 4 [Thể thao] (âm thanh tiếng Anh)
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1719
-#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="Thể thao", Super Sport 5 [Thể thao] (âm thanh tiếng Anh)
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1713
 
