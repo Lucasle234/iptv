@@ -76,7 +76,7 @@ http://fpt.vthanhtivi.pw/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="PHIM ẢNH" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000076_IVP_LAND_586x330.jpg", Celestial Movies [Phim Hồng Kông] (âm thanh tiếng Trung/phụ đề tiếng Anh)
 https://code.vthanhtivi.pw/getlink/eazie/243113/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="PHIM ẢNH" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/wrdry4vk_ngang9067410d2fb1ed5accb483f26c3e72b3_296_168.webp", CinemaWorld [Điện ảnh quốc tế] (âm thanh gốc/phụ đề tiếng Việt)
-http://m3u.at/cinemaworld
+http://vthanhtivi.pw/cinemaworld/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/12/m4oqw0d9_hbongagn4f6616f355267f3c46c8ffa59075e7cd_296_168.webp" group-title="PHIM ẢNH", HBO HD [Phim bom tấn Hollywood] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://fpt.vthanhtivi.pw/hbo/index.m3u8
