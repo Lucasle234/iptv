@@ -6,7 +6,7 @@
 # --- Quốc tế & K+ --- #
 
 #Thông tin hệ thống
-#Token TV360: 7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg
+#Token TV360: /7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704754800/
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION FHD [Phim Hành Động] (đa âm thanh/phụ đề tiếng Việt)
 http://vthanhtivi.b-cdn.net/kaction/index.m3u8
@@ -38,12 +38,12 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="KHÁM PHÁ" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_outdoor-channel_165649323545.png", Outdoor Channel HD [Khám phá] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=KhanggTivi
-https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704409200/chunklist.m3u8?vstv=216
+https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704754800/chunklist.m3u8?vstv=216
 
 # --- GIẢI TRÍ --- #
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/263.png" group-title="GIẢI TRÍ", AFN HD [Ẩm thực châu Á] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704409200/chunklist.m3u8?vstv=215
+https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704754800/chunklist.m3u8?vstv=215
 #EXTINF:-1 tvg-id="dmax" group-title="GIẢI TRÍ" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX [Phong cách quý ông] (âm thanh gốc/phụ đề tiếng Việt)
 http://fpt.vthanhtivi.pw/dmax/index.m3u8
 #EXTINF:0 tvg-id="drfithd" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/drfithd.jpg", DR.Fit [Sức khỏe chuyên biệt] (âm thanh gốc/phụ đề tiếng Việt)
@@ -51,11 +51,11 @@ http://fpt.vthanhtivi.pw/dmax/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:0 tvg-id="hgtv" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/234.png" group-title="GIẢI TRÍ", HGTV HD [Nhà cửa] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704409200/chunklist.m3u8?vstv=99
+https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704754800/chunklist.m3u8?vstv=99
 #EXTINF:-1 tvg-id="man" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man [Đẳng cấp quý ông] (âm thanh gốc/phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704409200/chunklist.m3u8?vstv=237
+https://ott3.khanggtivi.xyz/live/channel/tv360/7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704754800/chunklist.m3u8?vstv=237
 #EXTINF:0 tvg-id="warnertvhd" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/MSky_TV/warnertvhd.jpg", Warner TV HD [Phim Warner Brost] (âm thanh gốc/phụ đề tiếng Việt)
 http://vthanhtivi.pw/warnertv/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="GIẢI TRÍ" tvg-logo="https://khanggne.github.io/logo/woman.jpg", Woman [Phụ nữ chuyên biệt] (âm thanh gốc/phụ đề tiếng Việt)
