@@ -110,6 +110,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 
 # --- Quốc tế --- #
 
+#EXTINF:-1 tvg-id="" group-title="Truyền hình Nhật Bản" tvg-logo="https://images.squarespace-cdn.com/content/v1/54b32958e4b08972957c461b/1615504400122-FLJAAPMSITVB96CD2Y06/image-asset.png?format=1500w", GEM [Giải trí Nhật Bản] (âm thanh tiếng Nhật/phụ đề tiếng Anh)
+https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Truyền hình Nhật Bản" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/28/7r7yuz4b_nhk-world268b7c033a830c939ce0493c0cd83588_296_168.webp", NHK WORLD JAPAN HD [Truyền hình Nhật Bản] (âm thanh tiếng Anh)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjjQTgY.png" group-title="Truyền hình Nhật Bản", NHK World Premium [Truyền hình Nhật Bản] (âm thanh tiếng Nhật)
