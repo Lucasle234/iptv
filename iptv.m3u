@@ -8,11 +8,7 @@
 #Thông tin hệ thống
 #Token TV360: /7npTvLanmjCWIiZ3C4YfJf4zeCHW2MU0B4zXiTXbqmcOUbg/1704754800/
 
-#EXTINF:0 tvg-id="khanggevent" group-title="Trực tiếp" tvg-logo="", Asian Cup: Việt Nam - Nhật Bản
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://ott4livecdb.khanggtivi.xyz:80/stream/khanggtivi_event.smil/mpegts
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV - Thử Nghiệm" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 - Độ trễ thấp
-http://ott4livecdb.khanggtivi.xyz/VTV5/mpegts?token=Nt_HjBnt9m74VwlFfBiDtA-1705068434-3b0d13cc45a5e637e4672ba354d7e8b5
+
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION FHD [Phim Hành Động] (đa âm thanh/phụ đề tiếng Việt)
 http://vthanhtivi.b-cdn.net/kaction/index.m3u8
