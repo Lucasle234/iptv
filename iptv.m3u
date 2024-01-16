@@ -98,8 +98,11 @@ http://fpt.vthanhtivi.pw/animax/index.m3u8
 http://fpt.vthanhtivi.pw/cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/02/tjoyf7tj_ngang90be89a906beda93e62ca47e92837401_296_168.webp" , Cartoon Network HD [Thiếu nhi quốc tế] (âm thanh tiếng Việt)
 http://fpt.vthanhtivi.pw/cartoon/index.m3u8
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_da-vinci-learning_165655659384.png"tvg-name="Da Vinci (HD)"  group-title="KHOA HỌC", Da Vinci HD [Giáo dục thiếu nhi] (âm thanh gốc/phụ đề tiếng Việt)
-#http://antm.dynu.net:14285/rtp/232.84.2.131:9582
+#EXTINF:-1  tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", DREAMWORKS HD [Thiếu nhi quốc tế]
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuapxrZZWjnMKcm6KZlqWdlKBkXmJqaA==&time=1688192349&cliptv&id=dreamworks
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:0 tvg-id="happykids" group-title="THIẾU NHI" tvg-logo="https://khanggne.github.io/logo/happykids.jpg", Happy Kids [Hoạt hình và series cho thiếu nhi] (âm thanh tiếng Việt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
