@@ -26,6 +26,13 @@
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+ SPORT2 FHD [Thể thao 2] (âm thanh tiếng Việt)
 #http://vnorig.vthanhtivi.pw/ksport2/index.m3u8
 
+
+# --- FPT --- #
+#EXTINF:-1 tvg-id="" group-title="FPT" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_fpt-play_16564756306.png?w=282&mode=scale", FPT Play
+https://vips-livecdn.fptplay.net/MTczMTMyMjd8Zi1jaGFubmVsMV92aGxzLnNtaWx8dm5wdHwxNzA1NjIwMTg5fDExMy4xNjMuMTEyLjMzfGZmOTRhYmYwZGVkMTJlZjRhZmZiMzcxYWZkZTZjNDY0/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="FPT" tvg-logo="", Pladio [Radio FPT]
+https://vips-livecdn.fptplay.net/MTczMTMyMjd8cGxhZGlvbGl2ZV92aGxzLnNtaWx8dm5wdHwxNzA1NjE5OTY2fDExMy4xNjMuMTEyLjMzfGMzODMwYjhlNDFlNjBlNzI5NmI0NmMyZTczMmM4NWY5/epzevent/pladiolive_vhls.smil/chunklist_b5500000.m3u8
+
 # --- VTV --- #
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/09/14/0e30s9nw_vtv1-14-9-2023794af2d374643e86fea33d8be50b0174_296_168.webp", VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
