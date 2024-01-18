@@ -8,23 +8,23 @@
 
 # --- K+ --- #
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+ ACTION FHD [Phim Hành Động] (đa âm thanh/phụ đề tiếng Việt)
-http://vnorig.vthanhtivi.pw/kaction/index.m3u8
+#http://vnorig.vthanhtivi.pw/kaction/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://m3u.at/MYTV-K-LIFE?khichtv.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/24/1imcqcvu_bannerb62f86f39fd7b8fbc86ebe06420b8642_296_168.webp", K+ CINE FHD [Điện Ảnh] (đa âm thanh/phụ đề tiếng Việt)
-http://vnorig.vthanhtivi.pw/kcine/index.m3u8
+#http://vnorig.vthanhtivi.pw/kcine/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://m3u.at/mytv-CINE?khichtv.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp", K+ KIDS FHD [Thiếu nhi] (đa âm thanh/phụ đề tiếng Việt)
-http://vnorig.vthanhtivi.pw/kkids/index.m3u8
+#http://vnorig.vthanhtivi.pw/kkids/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://m3u.at/MYTVK-KIDS?index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+ SPORT1 FHD [Thể Thao 1] (âm thanh tiếng Việt)
-http://vnorig.vthanhtivi.pw/ksport1/index.m3u8
+#http://vnorig.vthanhtivi.pw/ksport1/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://m3u.at/MYTVk-SPORT1?index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+ SPORT2 FHD [Thể thao 2] (âm thanh tiếng Việt)
-http://vnorig.vthanhtivi.pw/ksport2/index.m3u8
+#http://vnorig.vthanhtivi.pw/ksport2/index.m3u8
 
 # --- VTV --- #
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/09/14/0e30s9nw_vtv1-14-9-2023794af2d374643e86fea33d8be50b0174_296_168.webp", VTV1 HD
@@ -35,6 +35,7 @@ http://m3u.at/VTV1-HD-VIP?.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://m3u.at/VTV2-HD-VIP?.m3u8?khichtv|Referer=http://sctvonline.vn/
+http://103.47.194.152/VTV2/mpegts
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/31/4z5n1bn2_vtv39449726ea4c5db921e30f2237426d776_296_168.webp", VTV3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -47,14 +48,18 @@ http://m3u.at/Khichtv-vtv4-hd?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/28/wiijk2v7_vtv5_28082023f03f13f82602dddaad82275cb31c8112_296_168.webp", VTV5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://m3u.at/Khich-live-vtv5?playlist.m3u8?khichtv|Referer=http://sctvonline.vn/
+#http://m3u.at/Khich-live-vtv5?playlist.m3u8?khichtv|Referer=http://sctvonline.vn/
+http://103.47.194.152/VTV5/mpegts
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/tmx7zrvk_vtvcab_vtv-tnb_296_168.webp", VTV5 Tây Nam Bộ
-https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+#https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+#http://m3u.at/vtv5-tnb?playlist_1080p.m3u8
+http://103.47.194.152/VTV5TNB/mpegts
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/9ku4rk7z_vtvcab_update_296_168.webp", VTV5 Tây Nguyên
-https://code.vthanhtivi.pw/getlink/tv360/66LG8bMXKXHfy8bhMpSSKg/1705553702/207/playlist.m3u8
+http://m3u.at/Khichtv-vtv5-TN?/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KhichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/mygem9ju_vtv-can-tho992d0d0d357f71755e38c5f4276cc207_296_168.webp", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://m3u.at/Khichtv-vtv6-hd?.m3u8?khichtv|Referer=http://sctvonline.vn/
+#http://m3u.at/Khichtv-vtv6-hd?.m3u8?khichtv|Referer=http://sctvonline.vn/
+http://103.47.194.152/VTVCT/mpegts
 #EXTINF:0 tvg-id="vtv7hd" group-title=VTV"tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/xiyp03o6_vtv7_296_168.webp", VTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
