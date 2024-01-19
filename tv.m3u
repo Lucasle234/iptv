@@ -7,6 +7,23 @@
 #Token Viettel TV [khanggtivi]: /MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==/vietteltv/
 
 
+# --- KÊNH ẨM THỰC --- #
+
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="http://img-z102.khanggtivi.xyz/logo/263.png" group-title="Giải trí", AFN HD - Ẩm thực châu Á (phụ đề tiếng Việt) | TV360
+#EXTVLCOPT:http-user-agent=Khanggtivi/2.1
+https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=215
+
+
+# --- KÊNH KHÁM PHÁ --- #
+
+#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature - Thiên nhiên hoang dã
+https://ott3.khanggtivi.xyz/live/channel/Love_Nature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/planetEarth3_1675158874.webp", Planet Earth - Khám phá chuyên biệt (phụ đề tiếng Việt) | SCTV 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+
+
 # --- KÊNH BOX --- #
 
 #EXTINF:-1 tvg-id="boxhits" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/boxhit1_1675158889.webp", Box Hits - Phim điện ảnh (phụ đề tiếng Việt)
@@ -51,9 +68,6 @@ https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQ
 #EXTVLCOPT:http-referrer=https://khanggtivi.xyz/
 https://ott3.khanggtivi.xyz/live/MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==/vietteltv/musicbox/master_2.m3u8
 
-#EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH BOX" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/planetEarth3_1675158874.webp", Planet Earth - Khám phá chuyên biệt (phụ đề tiếng Việt) | SCTV 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:0 tvg-id="planetearthhd" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/planetearthhd.jpg", Planet Earth - Khám phá chuyên biệt (phụ đề tiếng Việt) | TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -72,6 +86,9 @@ https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQ
 #EXTINF:-1 tvg-id="hits" group-title="KÊNH PHIM TRUYỆN" tvg-logo="http://img-z102.khanggtivi.xyz/logo/233.png", HITS - Phim series (phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ott4livecdb.khanggtivi.xyz/HITS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam - Phim Hồng Kông (lồng tiếng Việt)
+https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
 
 # --- KÊNH VTV --- #
