@@ -3,9 +3,148 @@
 #EXTM3U url-tvg="https://trada.info/epg.xml" m3uautoload=2
 #EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml" m3uautoload=2
 
-#EXTINF:-1 tvg-id="TEST" group-title="TEST" tvg-logo="" tvg-name="TEST" tvg-chno="1" 
+#Token TV360 [khanggtivi]: /tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/
+#Token Viettel TV [khanggtivi]: /MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==/vietteltv/
+
+
+# --- KÊNH ẨM THỰC --- #
+
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="http://img-z102.khanggtivi.xyz/logo/263.png" group-title="Giải trí", AFN HD - Ẩm thực châu Á (phụ đề tiếng Việt) | TV360
+#EXTVLCOPT:http-user-agent=Khanggtivi/2.1
+https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=215
+
+
+# --- KÊNH KHÁM PHÁ --- #
+
+#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature - Thiên nhiên hoang dã
+https://ott3.khanggtivi.xyz/live/channel/Love_Nature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/planetEarth3_1675158874.webp", Planet Earth - Khám phá chuyên biệt (phụ đề tiếng Việt) | SCTV 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+
+
+# --- KÊNH BOX --- #
+
+#EXTINF:-1 tvg-id="boxhits" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/boxhit1_1675158889.webp", Box Hits - Phim điện ảnh (phụ đề tiếng Việt)
+
+#EXTINF:0 tvg-id="boxmovie1" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/boxmovie11_1675158875.webp", Box Movie 1 - Phim tổng hợp (phụ đề tiếng Việt) | SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+
+#EXTINF:0 tvg-id="drfithd" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/drfit3_1675158875.webp", DR.Fit - Sức khỏe chuyên biệt | SCTV (phụ đề tiếng Việt) | SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
-#EXTINF:-1 tvg-id="TEST" group-title="TEST" tvg-logo="" tvg-name="TEST" tvg-chno="2"
+#EXTINF:0 tvg-id="drfithd" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/drfithd.jpg", DR.Fit - Sức khỏe chuyên biệt  (phụ đề tiếng Việt) | TV360
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=162
+
+#EXTINF:0 tvg-id="happykids" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/1567068739769_1675158913.webp", Happy Kids - Giải trí thiếu nhi (thuyết minh tiếng Việt) | SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
+#EXTINF:0 tvg-id="happykids" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/happykids.jpg", Happy Kids - Giải trí thiếu nhi (thuyết minh tiếng Việt) | TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=212
+
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/hollywood5_1675158893.webp", Hollywood Classics - Phim kinh điển Hollywood (phụ đề tiếng Việt) | SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/hollywoodclassics.jpg", Hollywood Classics - Phim kinh điển Hollywood (phụ đề tiếng Việt) | VIETTEL TV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=https://khanggtivi.xyz/
+https://ott3.khanggtivi.xyz/live/MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==/vietteltv/hollywoodclassic/master_2.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/b2_1675158886.webp", In The Box Channel - Phim series ấn tượng  (phụ đề tiếng Việt)
+
+#EXTINF:-1 tvg-id="man" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man - Đẳng cấp quý ông (phụ đề tiếng Việt) | TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=237
+
+#EXTINF:-1 tvg-id="musicbox" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/musicbox.jpg", Music Box - Âm nhạc thế giới | VIETTEL TV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=https://khanggtivi.xyz/
+https://ott3.khanggtivi.xyz/live/MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==/vietteltv/musicbox/master_2.m3u8
+
+#EXTINF:0 tvg-id="planetearthhd" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/planetearthhd.jpg", Planet Earth - Khám phá chuyên biệt (phụ đề tiếng Việt) | TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=135
+
+#EXTINF:-1 tvg-id="woman" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/woman3_1675158912.webp", Woman - Phụ nữ chuyên biệt (phụ đề tiếng Việt) | SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
+#EXTINF:0 tvg-id="woman" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/woman.jpg", Woman - Phụ nữ chuyên biệt (phụ đề tiếng Việt) | TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=163
+
+
+# --- KÊNH PHIM TRUYỆN --- #
+
+#EXTINF:-1 tvg-id="hits" group-title="KÊNH PHIM TRUYỆN" tvg-logo="http://img-z102.khanggtivi.xyz/logo/233.png", HITS - Phim series (phụ đề tiếng Việt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ott4livecdb.khanggtivi.xyz/HITS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam - Phim Hồng Kông (lồng tiếng Việt)
+https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+
+
+# --- KÊNH VTV --- #
+
+#EXTINF:0 tvg-id="vtv1hd" group-title="KÊNH VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/09/14/0e30s9nw_vtv1-14-9-2023794af2d374643e86fea33d8be50b0174_296_168.webp", VTV1 HD | SCTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://m3u.at/VTV1-HD-VIP?.m3u8?khichtv|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="vtv2hd" group-title="KÊNH VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/8jxfvivt_vtv2ee9c08aad4e297b156d0b454e83fd10d_296_168.webp", VTV2 HD ⁵⁰ᶠᵖˢ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#http://m3u.at/VTV2-HD-VIP?.m3u8?khichtv|Referer=http://sctvonline.vn/
+http://103.47.194.152/VTV2/mpegts
+
+#EXTINF:0 tvg-id="vtv3hd" group-title="KÊNH VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/31/4z5n1bn2_vtv39449726ea4c5db921e30f2237426d776_296_168.webp", VTV3 HD | SCTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://m3u.at/Khichtv-vtv3?hd.m3u8?khichtv|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="vtv4hd" group-title="KÊNH VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6dufbhs9_vtv4_296_168.webp", VTV4 HD | SCTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://m3u.at/Khichtv-vtv4-hd?khichtv|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4?/index.m3u8?khichtv|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="KÊNH VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/28/wiijk2v7_vtv5_28082023f03f13f82602dddaad82275cb31c8112_296_168.webp", VTV5 HD ⁵⁰ᶠᵖˢ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#http://m3u.at/Khich-live-vtv5?playlist.m3u8?khichtv|Referer=http://sctvonline.vn/
+http://103.47.194.152/VTV5/mpegts
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="KÊNH VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/tmx7zrvk_vtvcab_vtv-tnb_296_168.webp", VTV5 Tây Nam Bộ ⁵⁰ᶠᵖˢ
+#https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+#http://m3u.at/vtv5-tnb?playlist_1080p.m3u8
+http://103.47.194.152/VTV5TNB/mpegts
+
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="KÊNH VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/9ku4rk7z_vtvcab_update_296_168.webp", VTV5 Tây Nguyên | SCTV
+http://m3u.at/Khichtv-vtv5-TN?/playlist_1080p.m3u8
+
+#EXTINF:0 tvg-id="vtv6hd"group-title="KÊNH VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/mygem9ju_vtv-can-tho992d0d0d357f71755e38c5f4276cc207_296_168.webp", VTV Cần Thơ | SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#http://m3u.at/Khichtv-vtv6-hd?.m3u8?khichtv|Referer=http://sctvonline.vn/
+http://103.47.194.152/VTVCT/mpegts
+
+#EXTINF:0 tvg-id="vtv7hd" group-title=VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/xiyp03o6_vtv7_296_168.webp", VTV7 HD | SCTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://m3u.at/Khichtv-vtv7-hd?.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv8hd" group-title=VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.webp", VTV8 HD | SCTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://m3u.at/Khichtv-vtv8-hd?-playlist.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="KÊNH VTV" tvg-logo="http#s://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/09/akymg557_vtv9ada1dcceef5dd09eea5632685dca22d8_296_168.webp", VTV9 HD | SCTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://m3u.at/Khichtv-vtv9-hd?|Referer=http://sctvonline.vn/
