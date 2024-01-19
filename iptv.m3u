@@ -231,3 +231,10 @@ http://free.cvmtv.site/FS1?token=live
 #EXTINF:-1 group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png", Fox Sport 2 [Thể thao]
 http://free.cvmtv.site/FS2?token=live
 
+
+#EXTINF:0 tvg-id="TEST" group-title="TEST" tvg-logo="" tvg-name="TEST" tvg-chno="1" 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
+#EXTINF:0 tvg-id="TEST" group-title="TEST" tvg-logo="" tvg-name="TEST" tvg-chno="2"
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=162
