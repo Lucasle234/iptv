@@ -113,7 +113,7 @@ https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/63144
 #EXTINF:-1 tvg-id="arirang" group-title="KÊNH HÀN QUỐC" tvg-logo="http://img-z102.khanggtivi.xyz/logo/214.png", Arirang TV - Giải trí tổng hợp Hàn Quốc (phụ đề tiếng Anh)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World SD- Giải trí tổng hợp Hàn Quốc (phụ đề tiếng Anh/tiếng Việt)
+#EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World SD - Giải trí tổng hợp Hàn Quốc (phụ đề tiếng Anh/tiếng Việt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://oipf0znpmnliv.vcdn.cloud/hls/kbsworld/index.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World HD - Giải trí tổng hợp Hàn Quốc (phụ đề tiếng Anh)
