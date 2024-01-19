@@ -3,8 +3,8 @@
 #EXTM3U url-tvg="https://trada.info/epg.xml" m3uautoload=2
 #EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml" m3uautoload=2
 
-#Token Viettel TV [khanggtivi]: /MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==/vietteltv/
-#Token:
+#Token Viettel TV:          MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==
+#Token TV360:
 #       afn:                mIOXSiynYUb8AnVlON5b-w
 #       hgtv:               9HpSmha0WBBXtLHtZzkbQg
 #       man:                -sBOATN9aEL4JTt81jqgkA
@@ -13,7 +13,7 @@
 
 # --- KÊNH ẨM THỰC --- #
 
-#EXTINF:-1 tvg-id="afnhd" tvg-logo="http://img-z102.khanggtivi.xyz/logo/263.png" group-title="Giải trí", AFN HD - Ẩm thực châu Á (phụ đề tiếng Việt) | TV360
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="http://img-z102.khanggtivi.xyz/logo/263.png" group-title="KÊNH ẨM THỰC", AFN HD - Ẩm thực châu Á (phụ đề tiếng Việt) | TV360
 https://code.vthanhtivi.pw/getlink/tv360/mIOXSiynYUb8AnVlON5b-w/1705649562/215/playlist.m3u8
 
 
@@ -25,7 +25,7 @@ http://fpt.vthanhtivi.pw/history/mpegts
 #EXTINF:-1 tvg-id="hgtv" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV - Nhà cửa (phụ đề tiếng Việt) | TV360
 https://code.vthanhtivi.pw/getlink/tv360/9HpSmha0WBBXtLHtZzkbQg/1705649562/99/playlist.m3u8
 
-#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH KHÁM PHÁ";"DEMO" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature - Thiên nhiên hoang dã
+#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature - Thiên nhiên hoang dã
 https://ott3.khanggtivi.xyz/live/channel/Love_Nature/playlist.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/planetEarth3_1675158874.webp", Planet Earth - Khám phá chuyên biệt (phụ đề tiếng Việt) | SCTV 
@@ -44,7 +44,7 @@ https://code.vthanhtivi.pw/getlink/tv360/rr6g_Xd98hFe7JW8AZah8Q/1705649562/216/p
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
-#EXTINF:0 tvg-id="drfithd" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/drfit3_1675158875.webp", DR.Fit - Sức khỏe chuyên biệt | SCTV (phụ đề tiếng Việt) | SCTV
+#EXTINF:0 tvg-id="drfithd" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/drfit3_1675158875.webp", DR.Fit - Sức khỏe chuyên biệt (phụ đề tiếng Việt) | SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 
@@ -58,7 +58,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
-#EXTINF:-1 tvg-id="inthebox" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/b2_1675158886.webp", In The Box Channel - Phim series ấn tượng  (phụ đề tiếng Việt)
+#EXTINF:-1 tvg-id="inthebox" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/b2_1675158886.webp", In The Box Channel - Phim series ấn tượng (phụ đề tiếng Việt)
 
 #EXTINF:-1 tvg-id="man" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man - Đẳng cấp quý ông (phụ đề tiếng Việt) | TV360
 https://code.vthanhtivi.pw/getlink/tv360/-sBOATN9aEL4JTt81jqgkA/1705649562/237/playlist.m3u8
