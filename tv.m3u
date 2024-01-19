@@ -3,25 +3,37 @@
 #EXTM3U url-tvg="https://trada.info/epg.xml" m3uautoload=2
 #EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml" m3uautoload=2
 
-#Token TV360 [khanggtivi]: /tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/
 #Token Viettel TV [khanggtivi]: /MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==/vietteltv/
+#Token:
+#       afn:                mIOXSiynYUb8AnVlON5b-w
+#       hgtv:               9HpSmha0WBBXtLHtZzkbQg
+#       man:                -sBOATN9aEL4JTt81jqgkA
+#       outdoor channel:    rr6g_Xd98hFe7JW8AZah8Q
 
 
 # --- KÊNH ẨM THỰC --- #
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="http://img-z102.khanggtivi.xyz/logo/263.png" group-title="Giải trí", AFN HD - Ẩm thực châu Á (phụ đề tiếng Việt) | TV360
-#EXTVLCOPT:http-user-agent=Khanggtivi/2.1
-https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=215
+https://code.vthanhtivi.pw/getlink/tv360/mIOXSiynYUb8AnVlON5b-w/1705649562/215/playlist.m3u8
 
 
 # --- KÊNH KHÁM PHÁ --- #
 
-#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature - Thiên nhiên hoang dã
+#EXTINF:-1 tvg-id="historyhd" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD - Lịch sử thế giới (phụ đề tiếng Việt)
+http://fpt.vthanhtivi.pw/history/mpegts
+
+#EXTINF:-1 tvg-id="hgtv" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV - Nhà cửa (phụ đề tiếng Việt) | TV360
+https://code.vthanhtivi.pw/getlink/tv360/9HpSmha0WBBXtLHtZzkbQg/1705649562/99/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lovenature" group-title="KÊNH KHÁM PHÁ";"DEMO" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature - Thiên nhiên hoang dã
 https://ott3.khanggtivi.xyz/live/channel/Love_Nature/playlist.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/planetEarth3_1675158874.webp", Planet Earth - Khám phá chuyên biệt (phụ đề tiếng Việt) | SCTV 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="KÊNH KHÁM PHÁ" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD - Khám phá (phụ đề tiếng Việt) | TV360
+https://code.vthanhtivi.pw/getlink/tv360/rr6g_Xd98hFe7JW8AZah8Q/1705649562/216/playlist.m3u8
 
 
 # --- KÊNH BOX --- #
@@ -35,50 +47,30 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #EXTINF:0 tvg-id="drfithd" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/drfit3_1675158875.webp", DR.Fit - Sức khỏe chuyên biệt | SCTV (phụ đề tiếng Việt) | SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
-#EXTINF:0 tvg-id="drfithd" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/drfithd.jpg", DR.Fit - Sức khỏe chuyên biệt  (phụ đề tiếng Việt) | TV360
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=162
 
 #EXTINF:0 tvg-id="happykids" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/1567068739769_1675158913.webp", Happy Kids - Giải trí thiếu nhi (thuyết minh tiếng Việt) | SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
-#EXTINF:0 tvg-id="happykids" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/happykids.jpg", Happy Kids - Giải trí thiếu nhi (thuyết minh tiếng Việt) | TV360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=212
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/hollywood5_1675158893.webp", Hollywood Classics - Phim kinh điển Hollywood (phụ đề tiếng Việt) | SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/hollywoodclassics.jpg", Hollywood Classics - Phim kinh điển Hollywood (phụ đề tiếng Việt) | VIETTEL TV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=https://khanggtivi.xyz/
-https://ott3.khanggtivi.xyz/live/MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==/vietteltv/hollywoodclassic/master_2.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/b2_1675158886.webp", In The Box Channel - Phim series ấn tượng  (phụ đề tiếng Việt)
 
 #EXTINF:-1 tvg-id="man" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man - Đẳng cấp quý ông (phụ đề tiếng Việt) | TV360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=237
+https://code.vthanhtivi.pw/getlink/tv360/-sBOATN9aEL4JTt81jqgkA/1705649562/237/playlist.m3u8
 
 #EXTINF:-1 tvg-id="musicbox" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/musicbox.jpg", Music Box - Âm nhạc thế giới | VIETTEL TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=https://khanggtivi.xyz/
 https://ott3.khanggtivi.xyz/live/MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==/vietteltv/musicbox/master_2.m3u8
 
-#EXTINF:0 tvg-id="planetearthhd" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/planetearthhd.jpg", Planet Earth - Khám phá chuyên biệt (phụ đề tiếng Việt) | TV360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=135
-
 #EXTINF:-1 tvg-id="woman" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/woman3_1675158912.webp", Woman - Phụ nữ chuyên biệt (phụ đề tiếng Việt) | SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
-#EXTINF:0 tvg-id="woman" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/woman.jpg", Woman - Phụ nữ chuyên biệt (phụ đề tiếng Việt) | TV360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=163
 
 
 # --- KÊNH PHIM TRUYỆN --- #
@@ -134,12 +126,12 @@ http://m3u.at/Khichtv-vtv5-TN?/playlist_1080p.m3u8
 #http://m3u.at/Khichtv-vtv6-hd?.m3u8?khichtv|Referer=http://sctvonline.vn/
 http://103.47.194.152/VTVCT/mpegts
 
-#EXTINF:0 tvg-id="vtv7hd" group-title=VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/xiyp03o6_vtv7_296_168.webp", VTV7 HD | SCTV
+#EXTINF:0 tvg-id="vtv7hd" group-title="KÊNH VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/xiyp03o6_vtv7_296_168.webp", VTV7 HD | SCTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://m3u.at/Khichtv-vtv7-hd?.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="vtv8hd" group-title=VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.webp", VTV8 HD | SCTV
+#EXTINF:-1 tvg-id="vtv8hd" group-title="KÊNH VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.webp", VTV8 HD | SCTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://m3u.at/Khichtv-vtv8-hd?-playlist.m3u8|Referer=http://sctvonline.vn/
