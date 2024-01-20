@@ -145,6 +145,9 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="one" group-title="Kênh Hàn Quốc" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f0399e5b096b01cd79e8ac5/1594936869834-MBPKYN93MFD8IFBS1SU9/ONE_26_LogoIdent_08.png", ONE - Giải trí Hàn Quốc (phụ đề tiếng Anh)
 https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
 
+#EXTINF:-1 tvg-id="tvN.kr" group-title="Kênh Hàn Quốc" tvg-logo="", tvN Asia - Giải trí Hàn Quốc (phụ đề Indonesia)
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
     # --- Kênh Nhật Bản ---#
 
 #EXTINF:-1 tvg-id="" group-title="Kênh Nhật Bản" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHK World - Tổng hợp Nhật Bản (phụ đề tiếng Anh)
