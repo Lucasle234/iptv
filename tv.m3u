@@ -60,16 +60,16 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=99
 
-#EXTINF:-1 tvg-id="man" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man - Đẳng cấp quý ông (phụ đề tiếng Việt) | TV360
+#EXTINF:-1 tvg-id="man" group-title="Kênh giải trí" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man - Đẳng cấp quý ông (phụ đề tiếng Việt) | TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ott3.khanggtivi.xyz/live/channel/tv360/CLrkwmB3V5sNDrIemV2kgdQqxJyrKuojQDnJZCYraXKUw_A/1705014000/chunklist.m3u8?vstv=237
 
-#EXTINF:-1 tvg-id="musicbox" group-title="KÊNH BOX" tvg-logo="https://khanggne.github.io/logo/musicbox.jpg", Music Box - Âm nhạc thế giới | VIETTEL TV
+#EXTINF:-1 tvg-id="musicbox" group-title="Kênh giải trí" tvg-logo="https://khanggne.github.io/logo/musicbox.jpg", Music Box - Âm nhạc thế giới | VIETTEL TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=https://khanggtivi.xyz/
 https://ott3.khanggtivi.xyz/live/MTEzLjE2My4xMTIuMzN8MTcwNTYyNTE3MXxLaGFuZ2dUaXZpX0dFVE0zVThSRVFVRVNUMDAwOTk5OTk5OTk5IyMjIyNAQCNAI0AjI0FDVElPTg==/vietteltv/musicbox/master_2.m3u8
 
-#EXTINF:-1 tvg-id="woman" group-title="KÊNH BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/woman3_1675158912.webp", Woman - Phụ nữ chuyên biệt (phụ đề tiếng Việt)
+#EXTINF:-1 tvg-id="woman" group-title="Kênh giải trí" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/woman3_1675158912.webp", Woman - Phụ nữ chuyên biệt (phụ đề tiếng Việt)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 
