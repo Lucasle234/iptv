@@ -108,7 +108,7 @@ http://fpt.vthanhtivi.pw/warnertv/index.m3u8
 http://fpt.vthanhtivi.pw/animax/index.m3u8
 
 #EXTINF:0 tvg-id="cbeebies" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
-https://google.com
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="boomerang" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD
 http://fpt.vthanhtivi.pw/cartoonito/index.m3u8
@@ -118,7 +118,7 @@ http://fpt.vthanhtivi.pw/cartoonito/index.m3u8
 http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 
 #EXTINF:0 tvg-id="dreamworks" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
-https://google.com
+http://m3u.at/DreamWorks?khichtv/index.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
