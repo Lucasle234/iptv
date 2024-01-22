@@ -108,18 +108,17 @@ http://fpt.vthanhtivi.pw/warnertv/index.m3u8
 http://fpt.vthanhtivi.pw/animax/index.m3u8
 
 #EXTINF:0 tvg-id="cbeebies" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
-#Không có link
+https://google.com
 
 #EXTINF:0 tvg-id="boomerang" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD
 http://fpt.vthanhtivi.pw/cartoonito/index.m3u8
 
 #EXTINF:0 tvg-id="cartoonhd" group-title="Kênh hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp" , Cartoon Network
 #EXTVLCOPT:http-user-agent=KhanggTivi
-#https://ott3.khanggtivi.xyz/live/channel/quocte/vstv210/index.m3u8
 http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 
 #EXTINF:0 tvg-id="dreamworks" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
-#Không có link
+https://google.com
 
     # --- Kênh tổng hợp --- #
 
