@@ -1,27 +1,32 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" m3uautoload=1
-#EXTM3U url-tvg="https://trada.info/epg.xml" m3uautoload=2
-#EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml" m3uautoload=2
+#EXTM3U url-tvg="https://trada.info/epg.xml"  m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"  m3uautoload=2
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"  m3uautoload=3
+#EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml" m3uautoload=4
 
+#: -- Nhóm kênh quốc tế: -- #
 
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/09/akymg557_vtv9ada1dcceef5dd09eea5632685dca22d8_296_168.webp", VTV9 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://m3u.at/Khichtv-vtv9-hd?|Referer=http://sctvonline.vn/
+    #: -- Kênh Khoa học/Giáo dục: -- #
 
+#EXTINF:0 tvg-id="animalhd" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/vop9bsxi_animal-planet_296_168.webp", Animal Planet
+http://fpt.vthanhtivi.pw/animal/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV" tvg-logo="http#s://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/09/akymg557_vtv9ada1dcceef5dd09eea5632685dca22d8_296_168.webp", VTV9 HD - Test
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+#EXTINF:0 tvg-id="bbcearth" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/66kpgfn6_bbc-earth_296_168.webp", BBC Earth
+http://fpt.vthanhtivi.pw/bbcearth/index.m3u8
 
-#EXTINF:-1 tvg-id="test" group-title="Kênh VTV" tvg-logo="http#s://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/09/akymg557_vtv9ada1dcceef5dd09eea5632685dca22d8_296_168.webp" tvg-chno="1", VTV9 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://m3u.at/Khichtv-vtv9-hd?|Referer=http://sctvonline.vn
+#EXTINF:0 tvg-id="discoveryhd" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/2srt1v2v_discovery_296_168.webp", Discovery Channel
+http://fpt.vthanhtivi.pw/discovery/index.m3u8
 
-#EXTINF:-1 tvg-id="test" group-title="Kênh VTV" tvg-logo="http#s://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/09/akymg557_vtv9ada1dcceef5dd09eea5632685dca22d8_296_168.webp" tvg-chno="2", VTV9 HD - Test
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://m3u.at/Khichtv-vtv9-hd?|Referer=http://sctvonline.vn
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
+http://fpt.vthanhtivi.pw/discoveryasia/index.m3u8
+
+#EXTINF:0 tvg-id="historyhd" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
+http://fpt.vthanhtivi.pw/history/mpegts
+
+#EXTINF:0 tvg-id="lovenature" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature
+https://ott3.khanggtivi.xyz/live/channel/Love_Nature/playlist.m3u8
+
+#EXTINF:0 tvg-id="outdoorfhd" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
+https://google.com
+
+#EXTINF:0 tvg-id="planetearthhd" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/planetEarth3_1675158874.webp", Planet Earth 
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
