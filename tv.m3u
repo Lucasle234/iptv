@@ -120,6 +120,10 @@ http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 #EXTINF:0 tvg-id="dreamworks" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
 http://m3u.at/DreamWorks?khichtv/index.m3u8
 
+#EXTINF:-1 tvg-id="davincihd" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci HD
+#EXTVLCOPT:http-user-agent=khichTivi
+http://m3u.at/ettvmovie?index.m3u8
+
 #EXTINF:-1 tvg-id="happykids" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
