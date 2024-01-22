@@ -13,7 +13,7 @@ http://fpt.vthanhtivi.pw/animal/index.m3u8
 #EXTINF:0 tvg-id="bbcearth" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/66kpgfn6_bbc-earth_296_168.webp", BBC Earth
 http://fpt.vthanhtivi.pw/bbcearth/index.m3u8
 
-#EXTINF:0 tvg-id="discoveryhd" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/2srt1v2v_discovery_296_168.webp", Discovery
+#EXTINF:0 tvg-id="discoveryhd" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/2srt1v2v_discovery_296_168.webp", Discovery Channel HD
 http://fpt.vthanhtivi.pw/discovery/index.m3u8
 
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="Kênh Khoa học/Giáo dục" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
