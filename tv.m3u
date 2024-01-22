@@ -73,6 +73,12 @@ http://fpt.vthanhtivi.pw/Box_Hits/mpegts
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Kênh phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+http://fpt.vthanhtivi.pw/cinemax/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Kênh phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
+http://vthanhtivi.pw/cinemaworld/index.m3u8
+
 #EXTINF:0 tvg-id="hbohd" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="Kênh phim", HBO
 http://fpt.vthanhtivi.pw/hbo/index.m3u8
 
@@ -101,6 +107,9 @@ http://fpt.vthanhtivi.pw/warnertv/index.m3u8
 #https://ott3.khanggtivi.xyz/live/channel/quocte/vstv209/index.m3u8
 http://fpt.vthanhtivi.pw/animax/index.m3u8
 
+#EXTINF:0 tvg-id="cbeebies" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
+#Không có link
+
 #EXTINF:0 tvg-id="boomerang" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD
 http://fpt.vthanhtivi.pw/cartoonito/index.m3u8
 
@@ -109,8 +118,8 @@ http://fpt.vthanhtivi.pw/cartoonito/index.m3u8
 #https://ott3.khanggtivi.xyz/live/channel/quocte/vstv210/index.m3u8
 http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 
-#EXTINF:0 group-title="Kênh hoạt hình" tvg-id="cartoonnw" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:0 tvg-id="dreamworks" group-title="Kênh hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
+#Không có link
 
     # --- Kênh tổng hợp --- #
 
