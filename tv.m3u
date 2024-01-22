@@ -222,3 +222,13 @@ http://m3u.at/Khichtv-vtv9-hd?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv3hd" group-title="Kênh SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD - Hoạt hình thiếu nhi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="Kênh VTV" tvg-logo="http#s://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/09/akymg557_vtv9ada1dcceef5dd09eea5632685dca22d8_296_168.webp" tvg-chno="1", VTV9 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://m3u.at/Khichtv-vtv9-hd?|Referer=http://sctvonline.vn
+
+#EXTINF:-1 tvg-id="test" group-title="Kênh VTV" tvg-logo="http#s://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/09/akymg557_vtv9ada1dcceef5dd09eea5632685dca22d8_296_168.webp" tvg-chno="2", VTV9 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://m3u.at/Khichtv-vtv9-hd?|Referer=http://sctvonline.vn
